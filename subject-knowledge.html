@@ -39,7 +39,7 @@ function renderMarkdown(data) {
     markdown.append(pre);
 }
 fetch(`subject_knowledge.md`)
-    .then(response => response.body)
+    .then(response => response.text())
     .then(renderMarkdown)
 .catch(err => console.error(err));
 
