@@ -12,7 +12,7 @@ html {
     margin-right: 1em;
 }
 
-pre, p, ul {
+pre, p {
     margin: 0em;
     padding: 0em;
 }
@@ -22,17 +22,21 @@ table {
     border-collapse: collapse;
     border:solid #000 !important;
     border-width:1px 0 0 1px !important;
+    empty-cells: show;
     /* todo - draw empty cells? */
 }
+
 table td, th {
     /* border: 1px solid black; */
     border:solid #000 !important;
     border-width:0 1px 1px 0 !important;
     vertical-align: top;
 }
-table li {
+table li, table ul {
     /* display: inline; */
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 @media print {

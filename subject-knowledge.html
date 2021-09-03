@@ -12,12 +12,15 @@
             color: grey;
             font-size: smaller;
         }
-
+        th:nth-child(n+4) {
+            writing-mode: vertical-lr;
+            padding: 1em;
+        }
     </style>
     <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
 </head>
 <body>
-    <a id="source" href="https://github.com/calaldees/">source todo</a>
+    <a id="source" href="https://github.com/ComputingTeachers/subjectKnowledge">source</a>
     <div id="navigation"></div>
     <div id="description"></div>
     <div id="main"></div>
@@ -88,7 +91,7 @@ function renderData(data) {
     }
     */
 
-    let keys = ["", "", "Tags", "Review 1", "Review 2", " Final"]
+    let keys = ["", "", "Tags", "Induction", "Review 1", "Review 2", " Final"]
 
     // Build Table
     const table = document.createElement('table');
@@ -104,7 +107,7 @@ function renderData(data) {
     }
     table.appendChild(table_headings);
 
-    // Table - Body
+    // Table - Rows
     let item_count = 0;
     for (let item of data) {
         const table_row = document.createElement('tr');
