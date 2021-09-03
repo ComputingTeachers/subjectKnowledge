@@ -43,6 +43,9 @@ table li, table ul {
     @page {
         margin: 1em;
     }
+    h1 {
+        page-break-before: auto;
+    }
     #navigation, #source {  /* and (min-width: 500px) */
         display: none;
     }
