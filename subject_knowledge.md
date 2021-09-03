@@ -10,20 +10,22 @@ Secondary Computing - Subject Knowledge
 
 Simplified Level Descriptors
 ----------------------------
-1. No evidence available. Can reason about the topic verbally.
-2. Evidence of Theory
+* Level 0
+    * No evidence available. Can reason about the topic verbally.
+* Level 1: Evidence of Theory
     * e.g. 
         * a completed past exam paper question on the topic
         * your own notes
         * Evidence of an training course (NCCE?)
-3. Evidence of Practical/Code/Implementation
+* Level 2: Evidence of Practical/Code/Implementation
     * e.g github link, image/email/video
-4. Evidence of Teaching
+* Level 3: Evidence of Teaching
     * e.g. link to resources
-5. Masters level pedagogical discussion about topic
+* Level 4: Masters level pedagogical discussion about teaching this topic
 
 
 Contributions
 -------------
 
 Please feel free to submit alterations, modifications, additions, removals in the form of a pull request.
+

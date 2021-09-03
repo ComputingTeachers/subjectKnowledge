@@ -39,12 +39,13 @@ table li, table ul {
     padding: 0;
 }
 
+.page_break {
+    page-break-before: always;
+}
+
 @media print {
     @page {
         margin: 1em;
-    }
-    h1 {
-        page-break-before: auto;
     }
     #navigation, #source {  /* and (min-width: 500px) */
         display: none;
