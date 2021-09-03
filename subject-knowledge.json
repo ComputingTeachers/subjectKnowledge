@@ -2,104 +2,68 @@
     {
         "id": "",
         "tags": ["code"],
-        "title": "Dynamic Language",
+        "title": "Sorting Algorithms",
+        "description": "bubble, quick, merge, selection, insertion"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Search Algorithms",
+        "description": "Linear/Binary"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Dynamic data structures",
+        "description": "Implement list, stack or queue with static arrays."
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "Binary Tree",
         "description": ""
     },
     {
         "id": "",
         "tags": ["code"],
-        "title": "Static Language",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["code"],
-        "title": "Function Language",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["practical"],
-        "title": "Visual/Block Language",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["theory"],
-        "title": "Reason about complexity O(n)",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": [],
-        "title": "FTP, POP, IMAP, SMTP",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["practical"],
-        "title": "Subnet mask, Gateway, DNS, Routing, Packet Switching",
-        "description": "Use/setup/configure a network simulator"
-    },
-    {
-        "id": "",
-        "tags": ["theory"],
-        "title": "Operating system, virtual memory, scheduling, sandbox, drivers, filesystems, userlevels",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["theory"],
-        "title": "interpreter/compiler",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["code"],
-        "title": "bubble, quick, merge, selection, insertion",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["code"],
-        "title": "list, stack, queue with static array",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["code"],
-        "title": "tree (priority queue)",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["code"],
-        "title": "Convert number base (binary2, oct8, hex16, denery10)",
-        "description": "Write code to convert from one number base to another"
+        "title": "Number Bases",
+        "description": "Convert between two number bases (binary2, oct8, hex16, denery10)"
     },
     {
         "id": "",
         "tags": ["code"],
         "title": "Check Digit",
-        "description": "Implement an ISBN check digit formula"
+        "description": "Validate ISBN-10 check digit"
     },
     {
         "id": "",
         "tags": ["code"],
-        "title": "Compression (RLE, Huffman)",
-        "description": "encode and/or decode an RLE format (conway wiki?). Huffman theory."
+        "title": "Compression RLE",
+        "description": "encode and/or decode data in an RLE format (conway wiki?)"
     },
     {
         "id": "",
         "tags": ["code"],
-        "title": "TCP + UDP",
-        "description": "Send and receive a TCP + UDP packet"
+        "title": "Compression Huffman",
+        "description": "Theory is required for teaching. Implementation is not trivial and not expected."
+    },
+    {
+        "id": "",
+        "tags": ["practical"],
+        "title": "Network Simulation",
+        "description": "Use/setup/configure a network simulator. Subnet mask, Gateway, DNS, Routing."
+    },
+    {
+        "id": "",
+        "tags": ["code"],
+        "title": "TCP and UDP",
+        "description": "Send and receive a TCP packet and a UDP packet"
     },
     {
         "id": "",
         "tags": ["code"],
         "title": "HTTP GET & POST",
-        "description": "Respond to GET and POST requests"
+        "description": "Request and Respond with/to GET/POST"
     },
     {
         "id": "",
@@ -110,52 +74,52 @@
     {
         "id": "",
         "tags": ["practical"],
-        "title": "Full Adder, Flip-Flop, Multiplexor",
-        "description": "Use a circuit simulator"
+        "title": "Use a circuit simulator",
+        "description": "Create one of: Full Adder, Flip-Flop, Multiplexor"
     },
     {
         "id": "",
         "tags": ["code", "practical"],
         "title": "Assembler",
-        "description": "LoadRegister, Addition, StoreRegister. Extension: generate fibonacci. Try LittleManComputer"
+        "description": "Basic program. LoadRegister, Addition, StoreRegister. Extension: generate fibonacci. Try LittleManComputer"
     },
     {
         "id": "",
         "tags": ["code"],
         "title": "Audio: Square, Triangle, Saw, Sine waves",
-        "description": "Generate a raw binary file from code that produces a waveform. Load + Play in audacity?"
+        "description": "Generate a raw binary file from code that produces a waveform 440hz waveform. Load + Play in audacity?. Compare against wikipedia reference audio"
     },
 
     {
         "id": "",
         "tags": ["code"],
         "title": "Concurrency",
-        "description": "Data passing between process's"
+        "description": "Pass data between two process's"
     },
 
     {
         "id": "",
         "tags": ["code"],
         "title": "Cypher",
-        "description": "Implement vinurette cypher encode/decode"
+        "description": "encode/decode Caesar or Vigenère"
     },
     {
         "id": "",
         "tags": ["practical"],
-        "title": "Remote pair live coding tool",
+        "title": "Remote pair via live coding tool",
         "description": ""
     },
     {
         "id": "",
         "tags": ["practical"],
         "title": "Code Review",
-        "description": "comments/annotations to evidence what was suggested/discussed"
+        "description": "Comment and/or approve a pull request. (evidence: url to public repo)"
     },
     {
         "id": "",
         "tags": ["practical"],
         "title": "Version control (git)",
-        "description": "Comment + approve a pull request. (evidence: url to public repo)"
+        "description": "Commit, push, pull, branch"
     },
     {
         "id": "",
@@ -167,13 +131,13 @@
         "id": "",
         "tags": ["code"],
         "title": "Unit Tests",
-        "description": "generate a test report from a series of tests"
+        "description": "Generate a test report from a series of automated tests. Include positive and error cases."
     },
     {
         "id": "",
         "tags": ["practical"],
         "title": "Performance profile",
-        "description": "e.g. compare two sorting algorithums (average time to complete over 100 runs with random data?)"
+        "description": "e.g. compare time of two sorting algorithms (average time to complete over 100 runs with random data?)"
     },
     {
         "id": "",
@@ -183,21 +147,15 @@
     },
     {
         "id": "",
-        "tags": ["practical"],
-        "title": "Containerisation",
-        "description": "Create a container"
-    },
-    {
-        "id": "",
         "tags": ["code"],
-        "title": "Webpage in text editor",
-        "description": "links, images, forms, events, animation, colour, HTML, Css, js"
+        "title": "Webpage (from first principles)",
+        "description": "HTML, Css, js. links, images, forms, events, animation, colour"
     },
     {
         "id": "",
         "tags": ["code"],
         "title": "Micro-controller",
-        "description": "program one#. Microbit? Arduino?"
+        "description": "Use of: Microbit? or Arduino?"
     },
     {
         "id": "",
@@ -219,14 +177,14 @@
     },
     {
         "id": "",
-        "tags": ["code", "practical"],
+        "tags": ["code"],
         "title": "GUI",
-        "description": "Create a GUI (with code or graphical tool)"
+        "description": "Create a GUI with code"
     },
     {
         "id": "",
         "tags": ["practical"],
-        "title": "MailMerge",
+        "title": "Mail Merge",
         "description": "email"
     },
     {
@@ -243,42 +201,48 @@
     },
     {
         "id": "",
-        "tags": ["code"],
-        "title": "json, xml, yaml, toml",
+        "tags": ["code", "inferred"],
+        "title": "Structured data formats: json, xml, yaml, toml",
         "description": "Use of some of these formats"
     },
+    {
+        "id": "",
+        "tags": ["code", "inferred"],
+        "title": "Language paradigms",
+        "description": "Example use of block, dynamic, static, functional languages. (Can be inferred from other tasks)"
+    },
+    {
+        "id": "",
+        "tags": ["code", "inferred"],
+        "title": "Command Line",
+        "description": "Evidence of use. Can be inferred from other tasks"
+    },
+    {
+        "id": "",
+        "tags": ["practical", "inferred"],
+        "title": "Developer IDE",
+        "description": "Use of an IDE. Inferred from other tasks"
+    },
 
     {
         "id": "",
         "tags": ["code"],
-        "title": "Simple Model",
-        "description": "Create a simple computer model. e.g. sea level hight image, estimate number of customers with tickets and drinks"
+        "title": "Create a simple Computer Model",
+        "description": "e.g. sea level hight image, estimate number of customers with tickets and drinks"
     },
 
     {
         "id": "",
-        "tags": [],
-        "title": "",
-        "description": ""
+        "tags": ["code"],
+        "title": "Retrieve data from any public api",
+        "description": "https://rapidapi.com/collection/list-of-free-apis"
     },
 
-    {
-        "id": "",
-        "tags": ["practical"],
-        "title": "Use a keylogger",
-        "description": ""
-    },
     {
         "id": "",
         "tags": ["social"],
         "title": "GDPR",
         "description": "what, why, how, rational, cookie (any why)"
-    },
-    {
-        "id": "",
-        "tags": ["social"],
-        "title": "Privacy",
-        "description": "Biometrics, Geo-Location, Accelerometer"
     },
     {
         "id": "",
@@ -294,22 +258,17 @@
     },
     {
         "id": "",
-        "tags": ["social"],
-        "title": "Tomorrows Tools",
-        "description": "Almost all current tech will be evolved/changed in 10/20 years. What is the future workplace"
-    },
-    {
-        "id": "",
         "tags": ["code", "practical"],
         "title": "Wiki Syntax",
         "description": "Update a wiki"
     },
     {
         "id": "",
-        "tags": [],
-        "title": "User interface design",
-        "description": ""
+        "tags": ["code", "practical"],
+        "title": "Public/Private key encryption",
+        "description": "Encrypt a file with a private key and decode with a public key. (Suggest `openssl` command line in container)"
     },
+
     {
         "id": "",
         "tags": ["social"],
@@ -319,25 +278,39 @@
     {
         "id": "",
         "tags": ["social"],
+        "title": "Privacy",
+        "description": "Biometrics, Geo-Location, Accelerometer"
+    },
+
+    {
+        "id": "",
+        "tags": ["social"],
         "title": "Economics - Why are some web services free?",
         "description": ""
     },
     {
         "id": "",
         "tags": ["practical", "ict"],
-        "title": "Advanced Web Search: AND, OR, NOT, Date",
+        "title": "Advanced Web Search: AND, OR, NOT, Date, Location",
         "description": ""
     },
     {
         "id": "",
-        "tags": ["practical"],
-        "title": "Pishing",
-        "description": "(maybe create a mock login? branded email?)"
+        "tags": ["practical", "security"],
+        "title": "Reproduce/clone the visual look of a formal website",
+        "description": ".gov or bank site. Modify to popup javascript alert on submit"
     },
     {
         "id": "",
+        "tags": ["practical", "security"],
+        "title": "Pishing",
+        "description": "Send an example email/sms to someone directing user to your reproduction site (above)"
+    },
+
+    {
+        "id": "",
         "tags": ["code", "practical", "ict"],
-        "title": "Draw a graph from a dataset",
+        "title": "Draw a graph/visualisation from a dataset",
         "description": ""
     },
     {
@@ -356,12 +329,6 @@
         "id": "",
         "tags": ["ict"],
         "title": "Record Video Presentation with subtitles and host publicly visible",
-        "description": ""
-    },
-    {
-        "id": "",
-        "tags": ["code"],
-        "title": "Modify an SVG image from text",
         "description": ""
     }
 ]

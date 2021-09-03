@@ -1,0 +1,57 @@
+[
+{
+    "id": "",
+    "tags": ["social"],
+    "title": "Tomorrows Tools",
+    "description": "Almost all current tech will be evolved/changed in 10/20 years. What is the future workplace"
+},
+{
+    "id": "",
+    "tags": ["theory"],
+    "title": "Reason about complexity O(n)",
+    "description": ""
+},
+{
+    "id": "",
+    "tags": [],
+    "title": "FTP, POP, IMAP, SMTP",
+    "description": ""
+},
+{
+    "id": "",
+    "tags": ["theory"],
+    "title": "Operating system, virtual memory, scheduling, sandbox, drivers, filesystems, userlevels",
+    "description": ""
+},
+{
+    "id": "",
+    "tags": ["theory"],
+    "title": "interpreter/compiler",
+    "description": ""
+},
+{
+    "id": "",
+    "tags": ["practical"],
+    "title": "Containerisation",
+    "description": "Create a container"
+},
+
+{
+    "id": "",
+    "tags": ["practical", "security"],
+    "title": "Use a keylogger",
+    "description": ""
+},
+{
+    "id": "",
+    "tags": [],
+    "title": "User interface design",
+    "description": ""
+},
+{
+    "id": "",
+    "tags": ["code"],
+    "title": "Modify an SVG image from text",
+    "description": ""
+}
+]

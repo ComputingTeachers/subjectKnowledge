@@ -1,24 +1,26 @@
 Secondary Computing - Subject Knowledge
 =======================================
 
-* You will be developing your subject knowledge throughout your career
-* Perform a _gap analysis_ of your own skills. A roadmap for your skills development
-* It may take _years_ to complete
-* This document covers only _technical_ knowledge from the TPACK model of teacher knowledge categorisation
+* This is a tool to help you track and develop your subject knowledge
+* Perform a _gap analysis_ of your own skills.
+* It is not expected that even professional teachers are at level 4 in all categories.
+* This audit covers a subset of required Computing teachers skills focusing on 'Technical' and 'Content' knowledge from the TPACK model
+    * [Technological pedagogical content knowledge](https://en.wikipedia.org/wiki/Technological_pedagogical_content_knowledge)
 
 
-Knowledge Levels
-----------------
-0. You can provide no evidence to support this skill
-1. Evidence of Theory
-    * You can reference evidence of theory knowledge
-        * e.g. a completed past exam paper question, your own notes
-2. Evidence of Practical/Code/Implementation
-    * Most principles of computing can be expressed through implementation
+Simplified Level Descriptors
+----------------------------
+1. No evidence available. Can reason about the topic verbally.
+2. Evidence of Theory
+    * e.g. 
+        * a completed past exam paper question on the topic
+        * your own notes
+        * Evidence of an training course (NCCE?)
+3. Evidence of Practical/Code/Implementation
     * e.g github link, image/email/video
-3. Evidence of Teaching
-    * You have created resources and taught the topic
+4. Evidence of Teaching
     * e.g. link to resources
+5. Masters level pedagogical discussion about topic
 
 
 Contributions

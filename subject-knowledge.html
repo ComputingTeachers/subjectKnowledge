@@ -14,12 +14,14 @@
         }
 
     </style>
+    <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
 </head>
 <body>
-<a id="source" href="https://github.com/calaldees/">source todo</a>
-<div id="markdown"></div>
-<div id="navigation"></div>
-<div id="main"></div>
+    <a id="source" href="https://github.com/calaldees/">source todo</a>
+    <div id="navigation"></div>
+    <div id="description"></div>
+    <div id="main"></div>
+    <div id="additional"></div>
 <script type="module">
 
 
@@ -30,22 +32,23 @@ const navigationElement = document.getElementById('navigation');
 const mainElement = document.getElementById('main') || document.getElementsByTagName('body').item(0);
 
 
-// Markdown
-function renderMarkdown(data) {
-    console.log(data);
-    const markdown = document.getElementById("markdown");
-    const pre = document.createElement('pre');
-    pre.append(document.createTextNode(data));
-    markdown.append(pre);
+// Markdown --------------------------------------------------------------------
+
+function renderMarkdownFileToElement(url, $el) {
+    fetch(url)
+        .then(response => response.text())
+        .then((markdown_data) => {
+            const converter = new showdown.Converter();  // https://github.com/showdownjs/showdown
+            $el.innerHTML = converter.makeHtml(markdown_data);
+        })
+    .catch(err => console.error(err));
 }
-fetch(`subject_knowledge.md`)
-    .then(response => response.text())
-    .then(renderMarkdown)
-.catch(err => console.error(err));
+
+renderMarkdownFileToElement(`subject_knowledge.md`, document.getElementById("description"));
+renderMarkdownFileToElement(`level_descriptors.md`, document.getElementById("additional"));
 
 
-
-
+// Main ------------------------------------------------------------------------
 
 let _data;
 window.onhashchange = function() {
@@ -85,7 +88,7 @@ function renderData(data) {
     }
     */
 
-    let keys = ["", "", "Tags", "1 Theory", "2 Practical", " 3 Taught"]
+    let keys = ["", "", "Tags", "Review 1", "Review 2", " Final"]
 
     // Build Table
     const table = document.createElement('table');
