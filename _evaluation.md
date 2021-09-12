@@ -1,21 +1,24 @@
 Consent Form
 ------------
 
+Dear Student/Mentor
+
 The Subject Knowledge Audit has been reworked and reformatted to help enhance trainee teachers subject knowledge development.
 
 To ascertain the effectiveness of these subject knowledge audit changes a series of questionnaires and interview questions have been constructed.
 
-The data collected from these questionnaires, interviews and focus groups will be anonymised when reported.
+The data collected from these questionnaires, interviews and focus groups will be anonymised when reported. No personal identifiers will be recorded.
 
-You can opt out of these questionnaires, interviews and focus groups. They are optional.
+You can opt out of not completing these questionnaires, interviews and focus groups. They are optional.
 
 * Student Questionnaire 1: Given at start of course
-* Student Questionnaire 2 + Student Focus Group: Given after 3 months
-* Mentor Interview: Asked at mentor meeting during the term (3 month window)
+* Student Questionnaire 2: Given after 3 months
+* Student Focus Group: Give after 3 months. The interview may be recorded to aid accurate transcription and then deleted.
+* Mentor Interview: Questions will be asked at mentor meeting during the term (3 month window). Notes will be taken about responses. The interview may be recorded to aid accurate transcription and then deleted.
 
 The questions for each of these are given in advance and are detailed in the document below.
 
-I consent to my data being collected and used for this study.
+I consent to my answers to these questionnaire and interview to be collected and used for this study.
 
 
 Initial Student Questionnaire
@@ -51,7 +54,7 @@ Mentors time is limited. These interview questions are intended to be asked in a
 
 * The purpose of the Subject Knowledge Audit rework was to define the levels to ensure they are clearly distinct. Were you able to help your student teacher judge their knowledge level?
 * Having read the full level descriptors (from the CCCU Subject Knowledge level descriptions). Do you feel the simplified "Computing Levels" accurately describe/map to the full level descriptions?
-* It is possible to have a high level of pedagogical knowledge/competence (Level 3) without showing evidence of implementation (Level 2). How do you feel about your skill-set as mapped by the Subject Knowledge Audit?
+* It is possible to have a high level of pedagogical knowledge/competence (Level 3) without showing evidence of implementation (Level 2). How do you feel about your personal skill-set as mapped by the Subject Knowledge Audit?
 * Do you have any commentary for items that should be added or removed from the audit?
 
 
@@ -60,7 +63,10 @@ Student - Focus Group
 
 The focus group will be scheduled for 3 months after the first questionnaire.
 
-The same questions from the Mentor interview questions will be used to drive the focus group 
+The same questions from the Mentor interview questions will be used to drive the focus group.
+Discussion in the focus group will be constrained to the subject knowledge audit and teacher development. No individuals or schools shall be named.
+
+The focus group is initially intended to be recorded so that the discussion can be analysed/transcribed. The video evidence will be deleted.
 
 
 Final Student Questionnaire
