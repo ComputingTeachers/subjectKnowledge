@@ -4,8 +4,10 @@ Secondary Computing - Subject Knowledge
 * This is a tool to help you track and develop your subject knowledge
 * Perform a _gap analysis_ of your own skills.
 * It is not expected that even professional teachers are at level 4 in all categories.
-* This audit covers a subset of required Computing teachers skills focusing on 'Technical' and 'Content' knowledge from the TPACK model
+* Levels 1-2 covers a subset of required Computing teachers skills focusing on 'Technical' and 'Content' knowledge from the TPACK model
     * [Technological pedagogical content knowledge](https://en.wikipedia.org/wiki/Technological_pedagogical_content_knowledge)
+* Level 3-4 focus on pedagogical content knowledge
+* By virtue of requiring 'working implementation' for Level 2, you will be better positioned to create a practical/interactive lessons
 
 
 Simplified Level Descriptors

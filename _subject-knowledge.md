@@ -381,3 +381,10 @@ Range and Content
 			I7 Examples of protocols	I7	Examples of protocols	Explain a ‘real  protocol’  e.g.  using  telnet to interact with an HTTP server.
 			I8 Routing, redundancy & security	I8	Routing, redundancy & security	Explain routing; redundancy and error correction; encryption and security.
 
+
+---
+
+* [The Problems with Deliberate Practice](https://commoncog.com/blog/the-problems-with-deliberate-practice/)
+    * If you are self exploring you are having to do _curriculum design_
+    * Deliberate Practice Examples pg 117
+        * You either 'can' or 'cant'

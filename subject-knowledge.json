@@ -62,8 +62,14 @@
     {
         "id": "",
         "tags": ["code"],
+        "title": "Manually construct/send a HTTP GET request",
+        "description": "Manually construct a HTTP GET Request to request a webpage by hand using telnet or in code"
+    },
+    {
+        "id": "",
+        "tags": ["code"],
         "title": "HTTP GET & POST",
-        "description": "Request and Respond with/to GET/POST"
+        "description": "Request and Respond with/to GET/POST. e.g. Create a mini server"
     },
     {
         "id": "",
