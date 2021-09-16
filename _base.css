@@ -2,11 +2,13 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/*
 #source {
     position: absolute;
     right: 0;
     top: 0;
 }
+*/
 
 #navigation a {
     margin-right: 1em;
