@@ -145,6 +145,11 @@ function renderData(data) {
         el_tags.appendChild(el_tags_list);
         table_row.appendChild(el_tags);
 
+        // Create empty cells - not happy about how clumbsy this is
+        for (let i=0 ; i < 4 ; i++) {
+            table_row.appendChild(document.createElement('td'));
+        }
+
         table.appendChild(table_row);
     }
 
