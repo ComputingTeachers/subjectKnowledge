@@ -15,21 +15,19 @@ Simplified Level Descriptors
 * Level -1
     * Not aware of topic
 * Level 0
-    * Can reason about the topic verbally. No evidence available.
+    * No evidence available. Could reason about the topic verbally.
 * Level 1: Evidence of Theory
-    * e.g.
-        * A completed past exam paper question on the topic
-        * Link to your own notes
-        * Evidence of an training course (NCCE?)
-* Level 2: Evidence of Practical/Code/Implementation
+    * e.g. past exam paper question, personal notes , evidence of training course (NCCE?)
+* Level 2: Evidence of Code/Implementation/Practical
     * e.g github link, screenshot, video-screen-capture
 * Level 3: Evidence of Teaching
     * e.g. link to resources
 * Level 4: Masters level pedagogical discussion about teaching this topic
 
 
-Contributions
--------------
+Source
+------
 
-Please feel free to submit alterations, modifications, additions, removals in the form of a pull request.
-[https://github.com/ComputingTeachers/subjectKnowledge](https://github.com/ComputingTeachers/subjectKnowledge)
+* [https://computingteachers.uk/subjectKnowledge/subject-knowledge.html](https://computingteachers.uk/subjectKnowledge/subject-knowledge.html)
+* [https://github.com/ComputingTeachers/subjectKnowledge](https://github.com/ComputingTeachers/subjectKnowledge)
+    * Please feel free to submit alterations, modifications, additions, removals in the form of a pull request.
