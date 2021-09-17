@@ -14,7 +14,7 @@
     {
         "id": "",
         "tags": ["code"],
-        "title": "Dynamic data structures",
+        "title": "Dynamic collections",
         "description": "Implement list, stack or queue with static arrays."
     },
     {
@@ -246,22 +246,11 @@
 
     {
         "id": "",
-        "tags": ["social"],
-        "title": "GDPR",
-        "description": "what, why, how, rational, cookie (any why)"
-    },
-    {
-        "id": "",
         "tags": ["practical"],
         "title": "Setup Email Rules",
         "description": ""
     },
-    {
-        "id": "",
-        "tags": ["social"],
-        "title": "Careers",
-        "description": ""
-    },
+
     {
         "id": "",
         "tags": ["code", "practical"],
@@ -275,25 +264,6 @@
         "description": "Encrypt a file with a private key and decode with a public key. (Suggest `openssl` command line in container)"
     },
 
-    {
-        "id": "",
-        "tags": ["social"],
-        "title": "Societal impact",
-        "description": "AI, self driving cars, economy, implants, rising automation"
-    },
-    {
-        "id": "",
-        "tags": ["social"],
-        "title": "Privacy",
-        "description": "Biometrics, Geo-Location, Accelerometer"
-    },
-
-    {
-        "id": "",
-        "tags": ["social"],
-        "title": "Economics - Why are some web services free?",
-        "description": ""
-    },
     {
         "id": "",
         "tags": ["practical", "ict"],
@@ -335,6 +305,38 @@
         "id": "",
         "tags": ["ict"],
         "title": "Record Video Presentation with subtitles and host publicly visible",
+        "description": ""
+    },
+
+    {
+        "id": "",
+        "tags": ["social", "wip"],
+        "title": "Careers",
+        "description": ""
+    },
+    {
+        "id": "",
+        "tags": ["social", "wip"],
+        "title": "GDPR",
+        "description": "what, why, how, rational, cookie (any why). []"
+    },
+
+    {
+        "id": "",
+        "tags": ["social", "wip"],
+        "title": "Societal impact",
+        "description": "AI, self driving cars, economy, implants, rising automation"
+    },
+    {
+        "id": "",
+        "tags": ["social", "wip"],
+        "title": "Privacy",
+        "description": "Biometrics, Geo-Location, Accelerometer"
+    },
+    {
+        "id": "",
+        "tags": ["social", "wip"],
+        "title": "Economics - Why are some web services free?",
         "description": ""
     }
 ]
