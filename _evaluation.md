@@ -2,7 +2,7 @@ Consent Form
 ------------
 
 * [Research Ethics Application Forms](https://www.canterbury.ac.uk/research-and-consultancy/governance-and-ethics/research-ethics-panel-application-forms.aspx)
-    * Consent Form
+    * [Consent Form](https://www.canterbury.ac.uk/research-and-consultancy/governance-and-ethics/docs/Consent-form-Nov19.docx)
 
 Dear Student/Mentor
 

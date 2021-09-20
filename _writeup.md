@@ -19,3 +19,33 @@ Implications and Recommendations
  What have you learned from doing this study?
  How can the information be useful to others?
  If you repeated the study, what would you do differently?
+
+---
+
+Dont ask "why", but ask who, when (timefram), how (mehtod)
+Succes/ not scucess
+
+Aims /= methodolgy
+
+Aims = raise points
+Objective identify steps
+
+Objectves == how to get to aim
+
+Who made "comments" D2 descriptors
+
+QA (know to do these things)
+Module specificaitons
+External examiners
+Learning and teaching stratergy
+
+"What" is you rintervantion
+
+Research focus need to be lifted up
+
+Graduate attributes - know what they do/donot know (higher educaiton oeprates)
+
+
+Wont desctroy until grades
+not shared on public platform
+
