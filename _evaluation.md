@@ -1,9 +1,6 @@
 Consent Form
 ------------
 
-* [Research Ethics Application Forms](https://www.canterbury.ac.uk/research-and-consultancy/governance-and-ethics/research-ethics-panel-application-forms.aspx)
-    * [Consent Form](https://www.canterbury.ac.uk/research-and-consultancy/governance-and-ethics/docs/Consent-form-Nov19.docx)
-
 Dear Student/Mentor
 
 The Subject Knowledge Audit has been reworked and reformatted to help enhance trainee teachers subject knowledge development.
@@ -23,6 +20,9 @@ The questions for each of these are given in advance and are detailed in the doc
 
 I consent to my answers to these questionnaire and interview to be collected and used for this study.
 
+* [Consent Form](https://www.canterbury.ac.uk/research-and-consultancy/governance-and-ethics/docs/Consent-form-Nov19.docx)
+    * Source [Research Ethics Application Forms](https://www.canterbury.ac.uk/research-and-consultancy/governance-and-ethics/research-ethics-panel-application-forms.aspx)
+    
 
 Initial Student Questionnaire
 -----------------------------
