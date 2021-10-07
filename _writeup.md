@@ -5,14 +5,27 @@
 Focus == pedagogical development
 
 
+Explain Why this come to attention
+Cite ETAS as raising question - now taking it further
+
+
 ??? aims/ objectives / intervention?
 
 
 ## Literature Review
 
+Survey other institutions audits
+
+Survey other subjects audits
+
 
 ### Conclusions from Literature Review 
 
+lack of practical evidence in subject knowlge audits
+
+What are the research questions ...
+
+..? If you can't write a bubblesort algorithum with code, how can you teach it? .. it's a prerequestit. Other subjects do not seem to identify this practical requirement
 
 ## Research Methodology
 
@@ -23,7 +36,7 @@ Focus == pedagogical development
 
 ### Research Plan
 
-
+Cathrin Sherwood - Librarian access to journals
 
 
 ## Results and Conclusions
