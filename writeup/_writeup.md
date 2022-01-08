@@ -24,23 +24,24 @@ Can trainee teachers accurately self-evaluate their subject knowledge and use th
 
 ??? aims/ objectives / intervention?
 
-### Aims and objectives
-* Aims
-    * Trainees should be able to autonomously perform a subject knowledge gap analysis
-    * Trainees should target and evidence subject knowledge development over a 3-month period
-* Objectives
-    * Simplify and remove ambiguity in the criteria for identifying subject knowledge proficiency level
-    * Consider the evidence required for areas of subject knowledge
-    * Measure effectiveness of the intervention by surveying trainee teachers and school mentors about their perceptions of the new structure for subject knowledge tracking
-
 ### Context for the research
 * Trainee Computing teachers need to accurately perform a gap analysis of their skill-set to self-guide their subject knowledge development over the duration of their one-year PGCE course. The purpose of the PGCE is to help trainees engage in continuous critical reflection.
-* Mentors and trainees have expressed that; The existing subject knowledge audits are ineffective as they allow for personal interpretation of ability and typically measure the confidence of the trainee.
-* The intervention will be to - Revise the computing subject knowledge audit:
-    * The revised subject knowledge audit may allow direct comparisons between teacher’s knowledge sets.
-    * This comparable data could be important for developing future course strategies to enhance subject knowledge development.
-* A secondary opportunity for study will be to identify how the trainee’s confidence is impacted by this new tool.
-    * Will overly confident trainees be surprised or demoralised by how limited their knowledge may be?
+* Mentors and trainees have expressed that; The existing subject knowledge audit is ineffective as it allow for personal interpretation of ability and typically measure the 'confidence' of the trainee.
+* Intervention: Revise the computing subject knowledge audit
+    * Remove the 'personal interpretation' from judgement of level of skill
+* Identify how the trainee’s confidence is impacted by this new tool.
+    * Will overly confident trainees be surprised or demoralised by the limits of their subject knowledge?
+
+### Aims and objectives
+* Aims (statement of intent)
+    * Trainees should be able to autonomously perform a subject knowledge gap analysis
+    * Trainees should target and evidence subject knowledge development over a 3-month period
+* Objectives (actions and measurable outcomes)
+    * Simplify and remove ambiguity in the criteria for identifying subject knowledge proficiency level
+    * Clarify the evidence required to track/justify subject knowledge
+    * Trainees should be able to self direct their subject knowledge development
+    * Allow measurement/quantification of progress
+    * Survey trainee teachers and school mentors about their perceptions of the new structure for subject knowledge tracking to ascertain effectiveness of the intervention
 
 ### Research focus
 1. Rework the subject knowledge audit tooling
@@ -50,8 +51,7 @@ Can trainee teachers accurately self-evaluate their subject knowledge and use th
 2. Trainees and mentors’ responses will be captured to identify the effectiveness of this rework
     * Survey trainee’s perceived confidence of their subject knowledge development.
 
-
-### Criteria of the evaluation
+### Criteria for evaluation
 
 and key measures indicating success.
 
@@ -112,6 +112,9 @@ Graduate attributes - know what they do/donot know (higher educaiton oeprates)
 
 ### Results Summary
 
+Missing from the audit - word skills (ment to be computing)
+Complete the whole audit - IT SAYS THIS AT THE TOP - student teachers do not read
+
 ### Results Discussion
 
 * Student teachers repeatedly misunderstood that this was a teacher knowlege/skill audit and mistakenly assumed the students needed to perform these tasks.
@@ -148,15 +151,52 @@ Mimir - version control - convention cloud doucments are not sufficent for code 
 
 They don't have the time to upskill - NCCE certificates and money - importance of recruitment
 
-### Implications and Recommendations
-* What have you learned from doing this study?
-* How can the information be useful to others?
-* If you repeated the study, what would you do differently?
+Although student teachers identified that the items on the new subject knowledge audit did not fit what they were teaching in school. As each school creates it;s own material, I would suspect that it would be difficult for a number of computing teachers to refine a master list. This is why there is no agreed upon master list.
 
+### Implications and Recommendations
 
     * You discuss the outcomes from your evaluation and their implications for your practice across multiple domains (e.g., departmental, disciplinary, institutional and/or sector-wide implications).
     * Throughout the work you analyse relevant, detailed and specific examples from your practice in the light of educational research and theory. 
     * This reflection on your practice provides a clear vision and basis of evidence for improving your practice. 
+
+The old subject knowledge audit provided little meaningful value because
+
+The new subject knowledge audit provided little meaningful value because
+
+
+My original concept, was that if teachers were able to practically demonstraight the theoretical computing concepts with practical application. This would improve the quality of lessons computing teachers were able to create. The average trainee does not have the practical skills to do this and there is not sufficient time within the course to develop these skills.
+
+In modifying to the subject knowledge audit to include a practical dimension I alienated mentors and demoralised trainees.
+
+I wanted to show a 'complete world map' of the dimensions of the disaplin of computing. Even with verbal guidance and supporting text, many of my trainees were unable to distinguish what 'could be possible over a lifetime of teaching computing' with 'what is required in the next few months to gain qualified teacher status'. They were unable to conceive the audit tool as something they might be referring to for the next 5 years+.
+
+* What have you learned from doing this study?
+* How can the information be useful to others?
+
+#### Next study
+
+* If you repeated the study, what would you do differently?
+
+
+#### Actions to improve practice
+
+There is no need for a separate specialised teacher subject knowledge audit.
+An exam board GCSE specification lists the knowledge/skills needed and has mechanisms for assessment/measurement.
+Teachers do not have the capacity to teach topics that students are not directly assessed on.
+Trainees teachers do not have the capacity to focus on developing sills for topics that students are not directly assessed on.
+
+My subject knowledge audit enhancements focused around developing practical computing skills. The reality is that students (and therefore teachers) don't need these practical skills. The requirement for teachers is that students have the knowledge to pass the GCSE exam. Any knowledge/skills beyond a GCSE would not be standardised across a county or the country. Is up to the individual teachers or individual school computing departments to develop their own custom opportunities should they have the capacity. These additional opportunities cannot (and maybe 'should not') be controlled by external entities.
+
+Actions for 2022/2023 academic year:
+* Replace the trainee teacher subject knowledge audit with an amalgamation of current GCSE specifications from active exam boards
+* Ask student teachers to judge their level of skill by self administering and marking their own attempt at GCSE past papers
+* Remove any reference to A-Level topics - these are beyond the scope of the course
+* Direct trainee teachers towards existing skills certifications such as 'the NCCE Computer Science Accelerator' program that acrews bursaries for trainee teachers to take to their first employing school
+
+Industry is taking measures into their own hands. Many employers are loosing faith in the weight behind formal qualifications. Industry is inventing their own professional certification and their own recruitment screening process that is largely based on practical skills. (citation needed)
+
+The follow-up question we should return to is "What is the purpose of Computing Education in secondary schools, what should we be focusing on? and how can we make meaningful positive change?"
+
 
 
 ---
@@ -204,8 +244,8 @@ K5 - how do you know your teaching is effective
 
 
     * D2 - Fellow
-        5. Successful incorporation of subject and pedagogic research and/or scholarship within the above activities, as part of an integrated approach to academic practice
-        6. Successful engagement in continuing professional development in relation to teaching, learning, assessment and, where appropriate, related professional practices
+        1. Successful incorporation of subject and pedagogic research and/or scholarship within the above activities, as part of an integrated approach to academic practice
+        2. Successful engagement in continuing professional development in relation to teaching, learning, assessment and, where appropriate, related professional practices
 
 
     * Areas of Activity
