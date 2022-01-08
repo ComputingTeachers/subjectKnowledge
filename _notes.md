@@ -388,3 +388,24 @@ Range and Content
     * If you are self exploring you are having to do _curriculum design_
     * Deliberate Practice Examples pg 117
         * You either 'can' or 'cant'
+
+
+[Technology Mapping: An Approach for Developing Technological Pedagogical Content Knowledge](https://journals.sagepub.com/doi/abs/10.2190/EC.48.2.e)
+
+
+Action Research
+===============
+
+* [University of Bristol - Action Research](http://www.bris.ac.uk/education/study/continuing-professional-development-cpd/actionresearch/)
+* VLEBooks - [Action research in education](https://www.vlebooks.com/Vleweb/Product/Index/323535) 2013 McAteer, Mary
+
+
+What is education for?
+=====================
+
+Philosophy
+Rotten STEM
+Algorithums to live by
+
+Use of computing
+

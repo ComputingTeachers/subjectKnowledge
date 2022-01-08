@@ -1,7 +1,6 @@
 Transcription
 -------------
 
-
 S1: Obviously looking at the subject knowledge, the new one, and I think in our placements, through doing lessons and just observing lessons, we haven't covered many of the topics in the new audit. That's my feeling. I don't have the knowledge and understanding, be well versed to teach that and answer those questions. More experience is more experience.
 
 S2: Were you able to help judge your student teacher knowledge though
