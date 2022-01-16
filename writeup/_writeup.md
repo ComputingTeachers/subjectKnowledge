@@ -159,18 +159,49 @@ Rework the PGCE trainee teacher computing subject knowledge audit to include mea
 
 ### Criteria for evaluation
 
-and key measures indicating success.
+Key measures indicating success:
+1. There is majority preference for the new audit model
+    1. From students
+    2. From mentors
+2. Changes to student confidence levels should remain minimal
+    * It should neither strongly inflate or deflate their ego artificially
+3. Students feel they can accurately justify their current level of subject knowledge from the audit
+4. There is evidence to support that practical computing skills development has taken place
+    * This could be evidenced by student portfolio progress when reviewed in December
 
-
-    * You clearly define the aims and criteria of the evaluation, and key measures indicating success.
 
 ### Research Design
 
 * What data collection did you use? Why? Pros? Cons?
 * critically evaluate the use of action research in education and discuss ethical considerations
 
-Dominant Discourse
+#### Ethical considerations
+
+This study will alter the way trainees evaluate their subject knowledge. This self identification could impact their personal identity. Given the new audit refers to more practical skills, it is possible that confidence of my trainees could be affected. To mitigate this I will:
+* Ensure the audit clearly describes that it "is not used for formal assessment"
+* Ensure I collect feedback about the trainees level of confidence - both lichert scale and free-from feedback to detect any issues
+* Continually be involve trainees in discussions about subject knowledge development to support them
+
+No changes need to be made to the course in general and no change to assessment or re-validation will be required.
+
+All participants have completed consent forms and are aware that their data is collected anonymously so they will not be identifiable, but their responses will be publicly visible.
+
+Two questionnaires will be given 3 months aspart. To match the trainees responses over the time period, rather than collecting a name I a collect a 'code-name' they can enter in each questionnaire to identify themselves.
+
+
+
+Thematic analysis
+Identify unexpected data and points of disagreements
+the seductino of Dominant Discourse
+"Modes of discorse become so culturally embeded that they enter into widespread acceptance, and are rarely the subject of question or debate"
 (Mcateer and British Educational Research Association 107–128 (Chapter 6))
+
+Quality indicators
+Reliability, valididity, replicattabiliuty, objectivity, generisability
+Trustworthyness, contribution to knoelege, transparancy, explicitness in design and reporting, pragmatic considerations
+Bridges 2007 suggest: "At it's best, classroom action research seems to me to represent a reaffirmation of personal integrity, responsibility and authority in an environment that thretens to undermine all of these"
+Worthwhileness of a practitioner attempting to realign their thinking
+
 
 (Saldaña 2016) Describes First Cycle Coding Methods and Second Cycle Coding Methods
 
@@ -198,6 +229,20 @@ Tools as blocker
   the command line cannot be accessed in a meaningful way
 
 Confidence unrelated to audit
+
+
+William Pinar in his book [What Is Curriculum Theory?](https://www.taylorfrancis.com/books/mono/10.4324/9780203836033/curriculum-theory-william-pinar) Pinar 2011
+Defined by "complicated conversations" Rather than the formulation of objectives to be evaluated by (especially standardized) tests
+
+Interpretative phenomenological analysis IPA
+* > is an approach to psychological qualitative research with an idiographic focus, which means that it aims to offer insights into how a given person, in a given context, makes sense of a given phenomenon
+
+ It is distinct from other approaches, in part, because of its combination of psychological, interpretative, and idiographic components.
+
+* [Hermeneutics](https://en.wikipedia.org/wiki/Hermeneutics)
+    * > refers to the theory and practice of interpretation, where interpretation involves an understanding that can be justified. It describes both a body of historically divers methodologies for interpreting texts, objects, and concepts, and a theory of understanding.
+
+
 
 ### Research Plan
 
@@ -238,6 +283,9 @@ before?
 
 > is a Caesar cipher in the curriculum?
 
+Yes; typically part of a KS2 school curriculum
+https://www.cgpplus.co.uk/primary/ks2/computing/co2wat123-using-caesar-ciphers-years-5-6
+
 > I do worry that learning some of these topics will require me to spend time away from lesson planning for the students with who I am working in order to fit these topics into my classes, which may not benefit their exam results.
 
 > it'll be very difficult to tailor all of them to year 7s and 8s for example.
@@ -250,7 +298,7 @@ THEY ARE NOT MENT TO BE TAUGHT TO ALL 7 AND 8 STUDENTS!! THIS IS A TEACHER AUDIT
 after?
 
 
-> FIND QUITE It should have things that are on the silibus like selection and iteration
+
 You cant write a bubblesort (or any of ther algorithums) without these concepts. There is no point in listing these lower level skills as they are implicitly required by many of the other tasks.
 
 > FIND QUOTE There was no image representation or sound representation
@@ -294,6 +342,10 @@ They have been in school 8 weeks * 4 days = 32 days
 > and Basic construct in programming (Sequence, Selection and Iteration)",
 > Unfortunately there were no items matched
 
+You cant write a bubblesort (or any of ther algorithums) without these concepts. There is no point in listing these lower level skills as they are implicitly required by many of the other tasks.
+Trainees did not want to actively push their skills, they wanted a tick list.
+
+
 There was a lack of being able 
 
 * Student teachers repeatedly misunderstood that this was a teacher knowlege/skill audit and mistakenly assumed the students needed to perform these tasks.
@@ -330,7 +382,7 @@ Mimir - version control - convention cloud doucments are not sufficent for code 
 
 They don't have the time to upskill - NCCE certificates and money - importance of recruitment
 
-Although student teachers identified that the items on the new subject knowledge audit did not fit what they were teaching in school. As each school creates it;s own material, I would suspect that it would be difficult for a number of computing teachers to refine a master list. This is why there is no agreed upon master list.
+Although student teachers identified that the items on the new subject knowledge audit did not fit what they were teaching in school. As each school creates their own material, I would suspect that it would be difficult for a multiple computing teachers to agree on a 'master list' of skills. The national curriculum does not provide a prescriptive list. This is to deliberately enable schools to exert autonomy over the curriculum they provide.
 
 
 Research Question 1: "Can trainee teachers accurately self-evaluate their subject knowledge"
@@ -362,7 +414,11 @@ The Teachers' Standards (20??) state 'Have high expectations of your learners'. 
 
 #### Next study
 
-* If you repeated the study, what would you do differently?
+If a similar study was repeated:
+
+Biggs and Tang 2011 describe the concept of "Constructive Alignment" where the learning objectives, assessment and lesson content are all in alignment. Biggs and Tang suggest that any change to one of these must involve changes to all three components. By changing only one aspect of my course it was clear that it was going to have limited impact and create confusion. Future studies that involve alterations to course materials should be carefully consider other aspects that need to be updated.
+
+For a more academically rigorous study, it would be wise to ensure that someone external to the project provides the codification of questionnaire responses or interviews. This will counter some the inherent bias that the creators of the study may have. Interviews should also be conducted by 3rd parties for the same reason.
 
 
 #### Actions to improve practice
