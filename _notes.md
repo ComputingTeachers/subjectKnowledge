@@ -214,3 +214,5 @@ Algorithums to live by
 
 Use of computing
 
+
+* [Interdisciplinary Computer Science Pre-service TeacherPreparation: Panel](https://dl.acm.org/doi/epdf/10.1145/3304221.3325543) 2019

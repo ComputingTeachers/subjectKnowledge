@@ -75,46 +75,65 @@ My preference is that I favour practical application of skill. If young people c
 
 
 
-### Existing audits
+### Other Computing Audits
 
-In 2012 the Department for Education released a document titled “Subject Knowledge Requirements for Entry into Computer Science Teacher Training. Expert Group’s Recommendations”. "subject knowledge specified below is considered by an expert group ... to be the minimum necessary for trainees to 
-take full advantage of the training offered and to produce teachers capable of teaching a rigorous course in the secondary phase". The content of this document is excellent. It covers many of the core aspects of computing including fetch-execute-cycle, data encoding, network protocols and error correction. Many of these straddle the boundary between GCSE and A-Level. 
+#### Expert Group: Computer Science Teacher Training (2012)
 
-All the requirements state a trainee should "Explain"; there is no requirement for trainees to "Demonstrate" any of these skills. If I was to actually use these criteria as "the minimum necessary" then my course would not run because I would have to reject candidates at interview for subject knowledge.
+In 2012 the Department for Education released a document titled “Subject Knowledge Requirements for Entry into Computer Science Teacher Training. Expert Group’s Recommendations”.
+> subject knowledge specified below is considered by an expert group ... to be the minimum necessary for trainees to take full advantage of the training offered and to produce teachers capable of teaching a rigorous course in the secondary phase
 
-#### Survey other institutions audits
+The content of this document is excellent. It covers many of the core aspects of computing including fetch-execute-cycle, data encoding, network protocols and error correction. Many of these straddle the boundary between GCSE and A-Level. If I was to actually use these criteria as "the minimum necessary" then my course would not run because I would have to reject candidates at interview for subject knowledge.
 
-##### Leeds Trinity University
-Knowledge, Skills, and Learning Outcomes
+All the requirements state a trainee should "Explain"; there is no requirement for trainees to "Demonstrate" any of these skills.
 
-* "think creatively, innovatively, analytically, logically and critically"
-* use abstraction effectively
-* take a systematic approach to problem solving including the use of decomposition and abstraction, and make use of conventions including pseudo code and flowcharts
+#### Leeds Trinity University
 
-* I have some knowledge of this
-* I have secure knowledge of this
-* I can teach this
-* I can teach this in several different ways
+* Categorised into 3 broad categories: Knowledge, Skills, and Learning Outcomes
+* Items are hard to qualify:
+    * "think creatively, innovatively, analytically, logically and critically"
+    * use abstraction effectively
+    * take a systematic approach to problem solving including the use of decomposition and abstraction, and make use of conventions including pseudo code and flowcharts
+* Items are ranked with: (these are not well defined)
+    1. I have some knowledge of this
+    2. I have secure knowledge of this
+    3. I can teach this
+    4. I can teach this in several different ways
 
-
-
-
-##### Sommerset Learning Platform
+#### Sommerset Learning Platform
 
 Somerset has a county learning platform that has Computing subject knowledge documents from 2015. The teacher knowledge requirements are a copy of the expert group recommendations with little additional information about how these can be evidenced, achieved or tracked.
 
-
 #### Survey other subjects audits
-    music? maths?
+
+These are samples of subject knowledge audits for trainees teachers from Canterbury Christ Church University 2021/2022.
+
+##### Maths
+
+See Appendix XXX
+
+Maths is a very established subject that challenges students problem solving abilities. This has parallels with the algorithmic problem solving in computing.
+
+This is largely the gcse exam-board specification.
+
+##### Music
+
+See Appendix XXX
+
+I selected Music as this subject has a range of demonstrable practical skills rather than desecrate knowledge. I wanted to compare how these practical skills are measured trainees.
+
+Music Tech skills are listed separately. The categories are very broad (e.g Keyboard skills) with a rating 1 to 4. The rating descriptors are significantly lengthy as defined for the institution. Theses are the same descriptors I distilled my computing levels from.
+
 
 #### Survey of external audits
 
-https://eedi.com/projects/teach-computing
+In 2016 Craig Barton, a maths teacher, demonstrated the value of multiple choice questions where the incorrect answers are deliberately constructed to reveal a particular misconception. The effectiveness was evaluated by a 3 year project by the Education Endowment Foundation. The technique has also been used for testing computing subject knowledge. (“Diagnostic and Summative Assessment of Computing”)
 > Gaining an accurate picture of the subject knowledge of your students, and knowing where gaps remain, provides the foundation for success. 
 
 [Subject knowledge certificate](https://teachcomputing.org/cs-accelerator)
 > Complete a questionnaire to assess your subject knowledge
 [GCSE specifications to Computer Science Accelerator course map (September 2020)](https://static.teachcomputing.org/GCSE_specifications_to_CSA_course_map.pdf)
+
+Subject knowledge certificates are awarded after attending a course module (some online async, online live, or face-to-face) and completing a multiple choice assessment with many of the questions mirrors from eedi.com's diagnostic questions.
 
 
 ### Literature Review Conclusions
@@ -143,17 +162,16 @@ Rework the PGCE trainee teacher computing subject knowledge audit to include mea
     * Trainees should be able to autonomously perform a subject knowledge gap analysis
     * Trainees should target and evidence subject knowledge development over a 3-month period
 * Objectives (actions and measurable outcomes)
-    * Simplify and remove ambiguity in the criteria for identifying subject knowledge proficiency level
-    * Clarify the evidence required to track/justify subject knowledge
-    * Trainees should be able to self direct their subject knowledge development
-    * Allow measurement/quantification of progress
-    * Survey trainee teachers and school mentors about their perceptions of the new structure for subject knowledge tracking to ascertain effectiveness of the intervention
-
-### Intervention
-1. Rework the existing subject knowledge audit tooling
     * Ensure that levels of subject knowledge are unambiguous and evidencable
     * Trainee teachers and school mentors to accurately identify their current working level and areas of need
     * Provide a quantitative measure of subject knowledge progress over a 3-month period
+    * Trainees should be able to self direct their subject knowledge development
+
+### Intervention
+1. Rework the existing 'computing trainee teacher subject knowledge audit'
+    * Simplify and remove ambiguity in the criteria for identifying subject knowledge proficiency level
+    * Clarify the evidence required to track/justify subject knowledge
+    * Survey trainee teachers and school mentors about their perceptions of the new structure for subject knowledge tracking to ascertain effectiveness of the intervention
 2. Trainees and mentors’ responses will be captured to identify the effectiveness of this rework
     * Survey trainee’s perceived confidence of their subject knowledge development
 
@@ -172,10 +190,42 @@ Key measures indicating success:
 
 ### Research Design
 
-* What data collection did you use? Why? Pros? Cons?
-* critically evaluate the use of action research in education and discuss ethical considerations
 
-#### Ethical considerations
+#### Questionnaires
+
+I will give my trainees two questionnaires (3 months apparat) that survey their experience with the new subject knowledge audit. I will attempt to codify the responses to the open questions. I will use a unipolar likert scale to quantify overarching conclusions for preference for the old/new audit and student self reported confidence.
+
+#### Codification of open question responses
+
+Action Research Education (Mcater 2013) proposes a range of approaches for research techniques in education. I will attempt to perform a thematic analysis by  identifying unexpected data and points of disagreements and codifying these outcomes. I should be cautions about the seduction of dominant discourse. "Modes of discourse become so culturally embedded that they enter into widespread acceptance, and are rarely the subject of question or debate" (Mcateer and British Educational Research Association 107–128 (Chapter 6))
+
+I have a sample size of 7 students and mentors, my study is limited in most of the data quality indicators (Reliability, validity, replicable, objectivity, generalisability). I intend to extract the general themes that arise and discuss them.
+
+Bridges 2007 warns: "At it's best, classroom action research seems to me to represent a reaffirmation of personal integrity, responsibility and authority in an environment that threatens to undermine all of these". Action research's main use is for a practitioner to attempting to realign their thinking.
+
+In Coding Manual For Qualitative Researchers (Saldaña 2016) cites an argument from Strauss's conveying the importance of coding in qualitative research. 
+This is counted by an assertion from Packer that on a practical level, coding is impossible to practice. 
+The book describes first cycle coding methods and second cycle coding methods for taking open response questions and categorising them. In professional research this codification should be done by someone external to the study or the domain to reduce bias. I will attempt to perform a cut down rendition of these principles.
+
+First cycle, I will identify the main themes and give them a code. Second cycle, I wil attempt to count the number of occurrences of these codes. Because my sample size is so small I will simply this further with reporting the code of themes that have occurred multiple times. I will demonstrate the codes and commentary in my appendix.
+
+This approach is a significantly simplified attempt to interpret my data. This is an area I would like to formalise/develop as I continue my journey with education research.
+
+
+#### Focus group discussion
+
+Pinar (2011) in his book "What Is Curriculum Theory?" defined the curriculum as "complicated conversations" with practitioners rather than the formulation of objectives evaluated by standardized tests. He posits that the curriculum is largely intertwined with the perceptions of the practitioners that teach it. 
+
+I will record the audio from a focus group conversation between my trainees after 3 months of using the new subject knowledge audit. This open forum will hopefully reveal deeper insights than my questionnaires as this will involve discourse between eh trainee teachers. They will be asked to discuss the same questions given to mentors.
+
+I will attempt to perform an Interpretative phenomenological analysis (IPA) to offer insight into to offer insights into how trainee teachers computing teachers makes sense of a subject knowledge development. This is in the domain of Hermeneutics as the theory and practice of interpretation where the interpretation can be justified.
+
+The small sample size of trainees makes this approach possible.
+
+I will use the same codification process as used with the questionnaires to interpret the focus group discussion.
+
+
+#### Ethical considerations of research design
 
 This study will alter the way trainees evaluate their subject knowledge. This self identification could impact their personal identity. Given the new audit refers to more practical skills, it is possible that confidence of my trainees could be affected. To mitigate this I will:
 * Ensure the audit clearly describes that it "is not used for formal assessment"
@@ -186,65 +236,14 @@ No changes need to be made to the course in general and no change to assessment 
 
 All participants have completed consent forms and are aware that their data is collected anonymously so they will not be identifiable, but their responses will be publicly visible.
 
-Two questionnaires will be given 3 months aspart. To match the trainees responses over the time period, rather than collecting a name I a collect a 'code-name' they can enter in each questionnaire to identify themselves.
-
-
-
-Thematic analysis
-Identify unexpected data and points of disagreements
-the seductino of Dominant Discourse
-"Modes of discorse become so culturally embeded that they enter into widespread acceptance, and are rarely the subject of question or debate"
-(Mcateer and British Educational Research Association 107–128 (Chapter 6))
-
-Quality indicators
-Reliability, valididity, replicattabiliuty, objectivity, generisability
-Trustworthyness, contribution to knoelege, transparancy, explicitness in design and reporting, pragmatic considerations
-Bridges 2007 suggest: "At it's best, classroom action research seems to me to represent a reaffirmation of personal integrity, responsibility and authority in an environment that thretens to undermine all of these"
-Worthwhileness of a practitioner attempting to realign their thinking
-
-
-(Saldaña 2016) Describes First Cycle Coding Methods and Second Cycle Coding Methods
-
-Saldaña presents Strauss’s argument for the importance of coding in qualitative research
-Packer’s assertion that on a practical level, coding is impossible to practice
-CAQDAS (computer-assisted qualitative data analysis software) 
-
-
-Coding
-
-THought the sudit was an assessment requirement
-Audit should be completed
-  I would be unable to complete everything on the audit
-Identified lower level topics
-Time for development
-Topic scope
-
-Alignment
-
-Other related subject iMedia, ICT
-
-Misunderstanding - Skills for teacher - Teacher audit - not a student audit
-
-Tools as blocker
-  the command line cannot be accessed in a meaningful way
-
-Confidence unrelated to audit
-
-
-William Pinar in his book [What Is Curriculum Theory?](https://www.taylorfrancis.com/books/mono/10.4324/9780203836033/curriculum-theory-william-pinar) Pinar 2011
-Defined by "complicated conversations" Rather than the formulation of objectives to be evaluated by (especially standardized) tests
-
-Interpretative phenomenological analysis IPA
-* > is an approach to psychological qualitative research with an idiographic focus, which means that it aims to offer insights into how a given person, in a given context, makes sense of a given phenomenon
-
- It is distinct from other approaches, in part, because of its combination of psychological, interpretative, and idiographic components.
-
-* [Hermeneutics](https://en.wikipedia.org/wiki/Hermeneutics)
-    * > refers to the theory and practice of interpretation, where interpretation involves an understanding that can be justified. It describes both a body of historically divers methodologies for interpreting texts, objects, and concepts, and a theory of understanding.
-
+Two questionnaires will be given 3 months aspart. To match the trainees responses over the time period, rather than collecting a name I a collect a 'code-name' they can enter in each questionnaire to identify participants.
 
 
 ### Research Plan
+
+
+
+
 
 
 Cathrin Sherwood - Librarian access to journals
@@ -253,13 +252,19 @@ Cathrin Sherwood - Librarian access to journals
 
 Graduate attributes - know what they do/donot know (higher educaiton oeprates)
 
-## Results and Conclusions
+## Results
 
 * Conclusions are clearly related to objectives of the assignment and the work shows some originality.
 * You justify these in relation to past or future challenges in your practice. 
 * explicitly considers the limitations of the evidence.
 
 ### Results Summary
+
+I was unable to identify progress from september to december. The questionnaire were anonymous and students forgot the fake-names/identifies that had used in the first ones.
+I have totalled the codified sentiments and discussed them below.
+
+
+
 
 Missing from the audit - word skills (ment to be computing)
 Complete the whole audit - IT SAYS THIS AT THE TOP - student teachers do not read
@@ -299,7 +304,7 @@ after?
 
 
 
-You cant write a bubblesort (or any of ther algorithums) without these concepts. There is no point in listing these lower level skills as they are implicitly required by many of the other tasks.
+You cant write a bubblesort (or any of these algorithms) without these concepts. There is no point in listing these lower level skills as they are implicitly required by many of the other tasks. The list of skills would also be significantly longer.
 
 > FIND QUOTE There was no image representation or sound representation
 If you can generate a sine wave, you know how to represent sound
@@ -343,23 +348,37 @@ They have been in school 8 weeks * 4 days = 32 days
 > Unfortunately there were no items matched
 
 You cant write a bubblesort (or any of ther algorithums) without these concepts. There is no point in listing these lower level skills as they are implicitly required by many of the other tasks.
+
+> It should feel like it all fits together to tick off your GCSE lesson. 
+
+> perhaps if we don't have any evidence we could evidence a lesson we've observed and learnt something from the teacher.
+
 Trainees did not want to actively push their skills, they wanted a tick list.
 
+These 
+Can write in sentences. Can spell words.
+Can add numbers. Can 
+This is a teacher knowlevel audit, not a student skill audit.
+This confused trainee teachers.
+One list to rule them all. Teachers have the same requirements as students. That does not sit well with me. Teachers should have more advanced knowledge than the students
+
+
+> (old audit) gives me more flexibility to work on developing my skills in ways that I see fit, as opposed to a pre-prescribed way 
 
 There was a lack of being able 
 
-* Student teachers repeatedly misunderstood that this was a teacher knowlege/skill audit and mistakenly assumed the students needed to perform these tasks.
+* Student teachers repeatedly misunderstood that this was a teacher knowledge/skill audit and mistakenly assumed the students needed to perform these tasks.
 * Cited many times "not on the computing curriculum". Just look at the bullet points - but fail to digest/understand the opening paragraph
     * "equips pupils to use computational thinking and creativity to understand and change the world"
     * > how digital systems work and how to put this knowledge to use through programming
     * > at a level suitable for the future workplace and as active participants in a digital world
     * > can analyse problems in computational terms, and have repeated practical experience of writing computer programs in order to solve such problems
-* (Peyton Jones) cited in his address - Where is the AI - we dont need to rewrite the mational curriculum
+* (Peyton Jones) cited in his address - Where is the AI - we don't need to rewrite the national curriculum
 
 Confused by "having" to do all of the audit with students. Use of GitHub - school refused.
-Trainees are unable to destinguish between role requirements and knowlege requirements, curriculum
+Trainees are unable to distinguish between role requirements and knowledge requirements, curriculum
 
-It is a mistake to proclaim/prescribe indicative content for KS3. Curriculum deliberately written to facilitate teacher freedom. Trainees are unable to destingusg between the nataion curriculm and their first placement school's curriculum (despite efforts to highlight this in subject sessions).
+It is a mistake to proclaim/prescribe indicative content for KS3. Curriculum deliberately written to facilitate teacher freedom. Trainees lacked the experience to distinguish between 'the national curriculum' and 'their first placement school's curriculum.
 
 What is the minimum requirement to "pass" what's on the assessment criteria. Schools make a vague attempt to define this at ks3. Mainly simplify ks4 and judge aptitude for ks4. 
 
@@ -386,7 +405,7 @@ Although student teachers identified that the items on the new subject knowledge
 
 
 Research Question 1: "Can trainee teachers accurately self-evaluate their subject knowledge"
-"yes" given clear enough assessment criteria.
+"yes" given clear enough criteria.
 
 Research Question 2: "and use this to guide their subject knowledge development?"
 
@@ -398,10 +417,9 @@ The reality is "no". The driver for trainee teacher subject knowledge developmen
     * Throughout the work you analyse relevant, detailed and specific examples from your practice in the light of educational research and theory. 
     * This reflection on your practice provides a clear vision and basis of evidence for improving your practice. 
 
-The old subject knowledge audit provided little meaningful value because
+The old subject knowledge audit provided little meaningful value because the categories were not well defined enough for a novice practitioner to identify areas of development
 
-The new subject knowledge audit provided little meaningful value because
-
+The new subject knowledge audit provided little meaningful value because the categories were not aligned with the institutions novice practitioners were teaching in.
 
 My original concept, was that if teachers were able to practically demonstrate the theoretical computing concepts with practical application. This would improve the quality of lessons computing teachers were able to create. The average trainee does not have the practical skills to do this and there is not sufficient time within the course to develop these skills. In modifying to the subject knowledge audit to include a practical dimension I alienated mentors and demoralised trainees.
 
@@ -440,7 +458,7 @@ Actions for my teaching next academic year 2022/2023:
 * Direct trainee teachers towards existing skills certifications NCCE (“Computer Science Accelerator Programme”). 
     * By doing this trainee teachers accrue bursaries to take to their first employing school. This manifests externally visible and verifiable progress.
 
-In a conversation with Tig Williams (Teacher Educator at Southampton University and Lead for the NCCE Accelerator program) in December 2021, the government funding for the NCCE is due to expire in the summer of 2022. It will be interesting to see if the bursary support continues.
+In a conversation with Tig Williams (Teacher Educator at Southampton University and Lead for the NCCE Accelerator program) in December 2021, the government £80 million funding for the NCCE is due to expire in the summer of 2022 (Sentance 2019). It will be interesting to see if the bursary support continues.
 
 
 #### Next steps
