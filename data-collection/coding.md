@@ -59,9 +59,9 @@ The coded sentiments are tallied across both questionnaires and focus group.
 | M7 | Confusing tools with skills               | 4 | | | 4 |
 | S1 | Requested lower level topics              | 3 |  | 3 | |
 | S2 | Topics out of alignment with teaching     | 18 | 4 | 7 | 7 |
-| S3 | Items for other subject                   | 5 | 1 | 1 | 3 |
+| S3 | Items for other subject                   | 3 | 0 | 2 | 1 |
 | S4 | Questioned topics that are part of KS2    | 3 | 1 | 1 | 1 |
-| S5 | Some topics were unknown                  | 3 | 3 | | |
+| S5 | Some topics were unknown                  | 2 | 2 | | |
 | S6 | Request more macro scope                  | 4 | 1 | 2 | 1 |
 | B1 | Tools available                           | 3 | 1 | 1 | 1 |
 | B2 | No time to develop skills                 | 2 | | 1 | 1 |
