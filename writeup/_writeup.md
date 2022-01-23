@@ -3,16 +3,29 @@
 Abstract
 --------
 
-As a Teacher Educator, I want to improve trainee teachers pedagogical development. Trainee teachers are required to show evidence of the their subject knowledge development to meet the UK teachers' standards.
+As a Teacher Educator for Secondary School Computing, I want to improve trainee teachers pedagogical development. 
+Trainee teachers are required to show evidence of the their subject knowledge development to meet the UK teachers' standards when undertaking their 1 year PGCE course. 
+My intervention was to improve the tooling that trainee teachers use to self evaluate their subject knowledge.
+My experimental audit was not effective. It was not aligned with school curriculums or existing skill sets. This caused stress for my trainees and alienated my mentors.
+The conclusions drawn from this trial are: to replace the subject knowledge audit with existing national training initiatives (which provide trainees with bursaries as an incentive).
 
-Explain Why this come to attention
+
+The Context/Problem/Question
+----------------------------
+
+I have a background in secondary education (7 years), commercial software engineering (10 years), higher education lecturing (including computing BSc) (4 years). My skill set gives me experience of teaching computing to 11 year old's though to professional developers. Given my history; I hope my insight and perspective can influence formal education in a positive and meaningful way.
 
 
-Overview
---------
+### Enhancing Teaching, Assessing and Supporting HE (ETAS) - Question
 
-Background as a secondary teacher, senior software engineer, teacher educator
+I wrote a short piece earlier this year raising question the issues about supporting teachers subject knowledge development in computing. A few important excerpts are listed below:
 
+Students are required to self assess their skills and identify their subject knowledge gaps (Rhoades 2014). Rhoades states "any overestimation or even underestimation of your knowledge will be counter productive". Trainee's self assessment of subject knowledge is varied and inaccurate as trainees have no benchmark or reference point to based their skills assessment upon (Schmid 2021 1.1). Trainees lack the knowledge of the curriculum to judge if their stills are sufficient. (Jones et al., 2019) cited McNamara (1991) in stating; a teachers' restricted subject knowledge affects the quality of teaching and causes serious deficiencies in student learning, this deficiency is not immediately identifiable. (D2 V pedagogical research)
+
+> Existing questionnaires have been criticized regarding the fuzzy, technology-unspecific, and content-agnostic wording of questionnaire items, which ask participants to rate the “appropriateness” of their competencies
+(Schmid, Brianza and Petko, 2021)
+
+Ultimately assessing subject knowledge for trainee teachers is a secondary concern. What matters is that they can deliver good lessons (V4 wider context). Subject knowledge could ultimately be assessed through the lesson content that the trainees create and deliver. This approach is confirmed by (Blömeke and Delaney, 2014) who state that we should be moving beyond self-reported subject knowledge audits. (K1 subject material)
 
 
 ### Action Research Question
@@ -31,24 +44,11 @@ Can trainee teachers accurately self-evaluate their subject knowledge and use th
     * Will overly confident trainees be surprised or demoralised by the limits of their subject knowledge?
 
 
-
 Literature Review and Rational for the Intervention
 ---------------------------------------------------
 
 Developing teachers subject knowledge is a core component of Initial Teacher Training (Department for Education, “Initial Teacher Training (ITT): Core Content Framework” and “Teachers’ Standards”).
-In 2016 Sentance and Csizmadia surveyed 300 Computing teachers in the UK (Sentance and Csizmadia). The biggest concern computing teachers had was "sufficient subject knowledge". 2016 was two years after the new computing curriculum for schools was introduced (2014). I suspect that in 2022 this is likely to have changed.
-
-
-### Enhancing Teaching, Assessing and Supporting HE (ETAS) - Question
-
-I wrote a short piece earlier this year raising question the issues about supporting teachers subject knowledge development in computing. A few important excerpts are listed below:
-
-Students are required to self assess their skills and identify their subject knowledge gaps (Rhoades 2014). Rhoades states "any overestimation or even underestimation of your knowledge will be counter productive". Trainee's self assessment of subject knowledge is varied and inaccurate as trainees have no benchmark or reference point to based their skills assessment upon (Schmid 2021 1.1). Trainees lack the knowledge of the curriculum to judge if their stills are sufficient. (Jones et al., 2019) cited McNamara (1991) in stating; a teachers' restricted subject knowledge affects the quality of teaching and causes serious deficiencies in student learning, this deficiency is not immediately identifiable. (D2 V pedagogical research)
-
-> Existing questionnaires have been criticized regarding the fuzzy, technology-unspecific, and content-agnostic wording of questionnaire items, which ask participants to rate the “appropriateness” of their competencies
-(Schmid, Brianza and Petko, 2021)
-
-Ultimately assessing subject knowledge for trainee teachers is a secondary concern. What matters is that they can deliver good lessons (V4 wider context). Subject knowledge could ultimately be assessed through the lesson content that the trainees create and deliver. This approach is confirmed by (Blömeke and Delaney, 2014) who state that we should be moving beyond self-reported subject knowledge audits. (K1 subject material)
+In 2016 Sentance and Csizmadia surveyed 300 Computing teachers in the UK (Sentance and Csizmadia). The biggest concern computing teachers had was "sufficient subject knowledge". 
 
 
 ### Definition of Computing Subject knowledge and skills
@@ -126,6 +126,7 @@ Music Tech skills are listed separately. The categories are very broad (e.g Keyb
 In 2016 Craig Barton, a maths teacher, demonstrated the value of multiple choice questions where the incorrect answers are deliberately constructed to reveal a particular misconception. The effectiveness was evaluated by a 3 year project by the Education Endowment Foundation. The technique has also been used for testing computing subject knowledge. (“Diagnostic and Summative Assessment of Computing”)
 > Gaining an accurate picture of the subject knowledge of your students, and knowing where gaps remain, provides the foundation for success. 
 
+National Center for Computing Education (NCCE) have there own "subject knowledge certificate" on a program called "The Computer Science Accelerator"
 [Subject knowledge certificate](https://teachcomputing.org/cs-accelerator)
 > Complete a questionnaire to assess your subject knowledge
 [GCSE specifications to Computer Science Accelerator course map (September 2020)](https://static.teachcomputing.org/GCSE_specifications_to_CSA_course_map.pdf)
@@ -242,7 +243,7 @@ Results
 I have totalled the codified sentiments and discussed them below.
 See Appendix for full results codification table. 
 
-I was unable to identify progress from september to december. The questionnaire were anonymous and students forgot the fake-names/identifies that had used in the first ones.
+I was unable to track individual progress from september to december. The questionnaire were anonymous and students forgot the fake-names/identifies that had used in the first questionnaire. (I need a new strategy for this in future)
 
 
 ### Results - Codification - Commentary
@@ -316,7 +317,7 @@ Trainees wanted more autonomy over their skill development.
 | I somewhat prefer the previous audit model | 2 |
 | I prefer the previous audit model | 1 |
 
-Conclusion: Ambivalent between old and new - trainees largely ignored the audit
+Conclusion: Ambivalent between old and new audits - trainees largely ignored the audit
 
 
 ### How do you currently feel about your current skill-set as described by the subject knowledge audit gap analysis?
@@ -326,7 +327,7 @@ I am slightly under-confident about my abilities | 3 |
 I have no response | 1 |
 I feel slightly confident about my abilities | 2 |
 
-Conclusion: Ambivalent - trainees largely ignored the audit
+Conclusion: Little impact on confidence - trainees largely ignored the audit
 
 
 
@@ -375,7 +376,7 @@ As the audits were not assessment requirements, they were largely ignored by tra
     * The reality is "no"
     * The driver for trainee teacher subject knowledge development is largely coupled to the trainees placement school curriculum. Anything beyond this is pragmatically optional. Trainees entire focus is delivering the content required by their placement school and learning the fundamentals of how to teach. Additional subject knowledge development is not assessed and therefore not actioned.
 
-#### Reflecting on the Scope of the school computing curriculum
+### Reflecting on the Scope of the school computing curriculum
 
 Trainees cited many times "not on the computing curriculum". In a subject session I asked them "was AI on the curriculum". The were unable to cite where it was. Their answer was "AI was not on the curriculum".
 The national curriculum is deliberately open for interpretation. Each school has the freedom form their own approach. 
@@ -392,7 +393,7 @@ The 7 trainees in this survey had only 32 days of school experience. They have l
 KS3 is flexible and at the schools discretion. KS4 is examined by a national paper exam. To raise results, schools ensure KS3 has a progression pathway of the concepts in KS4. Thus leading to the prevailing opinion that many topics are "not in the curriculum" if there is not a direct exam question for them.
 
 
-#### Next Study: Suggestions
+### Next Study: Suggestions
 
 Biggs and Tang 2011 describe the concept of "Constructive Alignment" where the learning objectives, assessment and lesson content are all in alignment. Biggs and Tang suggest that any change to one of these must involve changes to all three components. By changing only one aspect of my course it was clear that it was going to have limited impact and create confusion. Future studies that involve alterations to course materials should be carefully consider other aspects that need to be updated.
 
@@ -401,7 +402,7 @@ For a more academically rigorous study, it would be wise to ensure that someone 
 To get a complete picture of teacher skills development, the scope should be widened to study teachers with a range of years of service. This could reveal deeper insights into how teachers skills develop to inform meaningful changes to initial teacher education.
 
 
-#### Actions to improve practice
+### Actions to improve practice
 
 My subject knowledge audit enhancements focused around developing practical computing skills. The reality is that students (and therefore teachers) don't need these practical skills. The requirement for teachers is that their students have the knowledge to pass the GCSE exam.
 
@@ -426,7 +427,7 @@ Actions for my teaching next academic year 2022/2023:
     * (In reality this should be a mandatory requirement of any trainee in any subject)
 
 
-#### What next?
+### What next?
 
 Industry is taking measures into their own hands. Many employers are loosing faith in the weight behind formal computing qualifications. Industry is inventing their own professional certification and their own recruitment screening process that is largely based on practical skills. (Denning, more citation needed, this is common)
 
@@ -434,208 +435,3 @@ A follow-up questions might be: "What is the purpose of Computing Education in s
 
 Speaking to undergraduates and local school teachers, there is a growing desire to develop practical computing skills that formal education is not catering for. Coder Dojo's (coderdojo.com), Coding Dojo (codingdojo.org), Code Club's (codeclub.org) and other independent groups are setting up all over the world to cater for the missing parts of computing from mainstream education. I am in the process of investigating how to provide weekly group that spans secondary students, though undergrads, though junior developers. As an institution, Canterbury Christ Church is in a great position to host such a group. It would be interesting to see if this approach is viable and will be the focus of my next investigation.
 
-
-
-
----
-
-?? In a conversation with Tig Williams (Teacher Educator at Southampton University and Lead for the NCCE Accelerator program) in December 2021, 
-
-Cathrin Sherwood - Librarian access to journals
-
-"What" is your intervention
-
-Graduate attributes - know what they do/donot know (higher educaiton oeprates)
-
-
-
-Missing from the audit - word skills (ment to be computing)
-Complete the whole audit - IT SAYS THIS AT THE TOP - student teachers do not read
-
-They can't all buy a domain name - THIS IS NOT FOR STUDENTS!! IT'S FOR TEACHERS/YOU
-
-Tig
-
-Huffman AQA only - never seen an exam question on this
-
-
-
-* Conclusions are clearly related to objectives of the assignment and the work shows some originality.
-* You justify these in relation to past or future challenges in your practice. 
-* explicitly considers the limitations of the evidence.
-
-
-
-Mimir - version control - convention cloud doucments are not sufficent for code (multiple files) - changes over time
-
-    * You discuss the outcomes from your evaluation and their implications for your practice across multiple domains (e.g., departmental, disciplinary, institutional and/or sector-wide implications).
-    * Throughout the work you analyse relevant, detailed and specific examples from your practice in the light of educational research and theory. 
-    * This reflection on your practice provides a clear vision and basis of evidence for improving your practice. 
-
-
-* What have you learned from doing this study?
-* How can the information be useful to others?
-
-Notes
-=====
-
-Dont ask "why", but ask who, when (timefram), how (mehtod)
-Succes/ not scucess
-
-Aims /= methodology
-
-Aims = raise points
-Objective identify steps
-Objectives == how to get to aim
-
-Who made "comments" D2 descriptors
-
-QA (know to do these things)
-Module specifications
-External examiners
-Learning and teaching strategy
-
-"What" is your intervention
-
-Research focus need to be lifted up
-
-Graduate attributes - know what they do/donot know (higher educaiton oeprates)
-
-
-Wont destroy until grades
-not shared on public platform
-
-
----
-
-
-V1 - diverse
-    ICT or Computing background
-V2 - partcipation - differnt formats
-V4 - wider context - world outside of
-
-K5 - how do you know your teaching is effective
-
-
-
-    * D2 - Fellow
-        1. Successful incorporation of subject and pedagogic research and/or scholarship within the above activities, as part of an integrated approach to academic practice
-        2. Successful engagement in continuing professional development in relation to teaching, learning, assessment and, where appropriate, related professional practices
-
-
-    * Areas of Activity
-        * A1
-            * Design and plan learning activities and/or programmes of study
-        * A2
-            * Teach and/or support learning
-        * A3
-            * Assess and give feedback to learners
-        * A4
-            * Develop effective learning environments and approaches to student support and guidance
-        * A5
-            * Engage in continuing professional development in subjects/disciplines and their pedagogy, incorporating research, scholarship and the evaluation of professional practice
-    * Core Knowledge
-        * K1
-            * The subject material
-        * K2
-            * Appropriate methods for teaching, learning and assessing in the subject area and at the level of the academic programme
-        * K3
-            * How students learn, both generally and within their subject/disciplinary area(s)
-        * K4
-            * The use and value of appropriate learning technologies
-        * K5
-            * Methods for evaluating the effectiveness of teaching
-        * K6
-            * The implications of quality assurance and quality enhancement for academic and professional practice with a particular focus on teaching
-    * Professional Values
-        * V1
-            * Respect individual learners and diverse learning communities 
-        * V2
-            * Promote participation in higher education and equality of opportunity for learners
-        * V3
-            * Use evidence-informed approaches and the outcomes from research, scholarship and continuing professional development 
-        * V4
-            * Acknowledge the wider context in which higher education operates  recognising the implications for professional practice
-
-
-
-
-
-Mark scheme
-* Focus of assignment
-    * Critical reflection on the D2 descriptor in relation to your own practice.
-
-    
-* Evaluation of practice
-    * In the work you evaluate your practice using evidence from a range of sources and perspectives (e.g. self-reflection; student feedback; student assessment performance; observation of teaching by another educator; external examination reports). 
-
-    
-
-* Reflection and application to your own practice
-* Engagement with scholarship and research
-    * The work engages with a wide range of research and scholarship, including disciplinary pedagogies or scholarly debates within educational research. 
-    * The sources cited are critically analysed and evaluated in the light of your own practice and issues implicit in the literature are made explicit and integral to the argument.
-    * The work draws on scholarship from your own and other disciplines
-* QWC
-    * Aims
-    * Logically ordered
-    * Harvard
-    * Figures labelled
-    * proof read
-
-Analyse the method used
-
-
-The positivist paradigm is based in the assumption that a single tangible reality exists—one that can be understood, identified, and measured.
-
-Case Study: Identify the problems.
-Select the major problems in the case.
-Suggest solutions to these major problems.
-Recommend the best solution to be implemented.
-Detail how this solution should be implemented.
-
-
-
-* [Editorial - Developing Computationally Literate Teachers: Current Perspectives and Future Directions for Teacher Preparation in Computing Education](https://www.learntechlib.org/p/184602/)
-    * Cant access
-
-
-
-"Magic Rocks"
-
-Interview candidate "I'm a practical person. I learn things when I need to. If I need a skill, I can learn it the night before"
-"In a GCSE classroom with 30 students, you need to be able to glance at code and diagnose/debug it in around 6 to 10 seconds. This is NOT the night before"
-
-Maybe my bar is too high
-Maybe most of the things a 13 year old can tackel can be learnt by an adult 24 hours beforehand
-
-If my mentors don't engage with this. It is meaningless to assert my opinion if I alienate the profetionals I have to work with
-
-
-
-(Denning)
-* > use competency-based skill assessments to measure student progress. Be wary of the claim of universal value, for it has little empirical support
-
-(Nijenhuis-Voogt et al.)
-* Conflicting approaches
-        * "Thinking" (just the concept) or "Thinking and Making" (doing it in code)
-        * > Transcribing to real code is not carried out by my students. [After writing the algorithm in pseudo-code], it does not add any value … at that time, they are at the level of understanding where they should be
-        * > I want my students to be able to specify a logical solution for a problem on the level of elementary building blocks so you can make a one-on-one translation to a programming language
-        * > Students will make something so they really get an idea what it involves rather than remaining theoretical
-
-
-* > "What we miss in secondary education is to first think about what is needed, what is the goal, how we get there, and what steps can be distinguished."
-    * > "We assess the implementation too much and I think we assess conceptual knowledge insufficiently. How do you assess whether students really understand a concept?"
-
-
-
-
-[HCDA: From Computational Thinking to a Generalized Thinking Paradigm: As a new era in computing emerges, so too must our fundamental thinking patterns.](https://dl.acm.org/doi/10.1145/3418291) 2021
-Argues that computation thinking alone is not enough to solve modern day problems and propose additions, we need to pair this with historical, data and archectural thinging
-
-[Still a New Kid on the Block? Computational Thinking as Problem Solving in Code.org.](https://journals.sagepub.com/doi/10.1177/0735633120972050)
-TODO
-
-
-> As long as we keep designing and trying out our innovative pedagogies, we maintain the discourse on the need to change, deepen and extend our collective knowledge as to how (and how not to) improve the current situation, pushing the system to pursue a new state of equilibrium
-(Kolikant)
