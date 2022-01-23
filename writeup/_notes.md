@@ -203,3 +203,11 @@ TODO
 
 > As long as we keep designing and trying out our innovative pedagogies, we maintain the discourse on the need to change, deepen and extend our collective knowledge as to how (and how not to) improve the current situation, pushing the system to pursue a new state of equilibrium
 (Kolikant)
+
+
+--- cutouts
+
+
+Christian and Griffiths in their book Algorithms to Live by: The Computer Science of Human Decisions 2016, attempts to describe computer science patterns that map onto human behaviour. These are often trivial observations e.g. "The use of caching" by keeping regularly used objects in more accessible locations. A deep knowledge of computing does not seem to offer a meaningful advantage or deeper insight into how people engage with everyday activities.
+
+Woodard in his American Affairs opinion piece "Rotten STEM" cautions that STEM is no longer about Science and Maths and is all about providing tech workers for industry. We should be cautions about the requirements of industry contaminating education. Education is border than just developing monetisable skills (Woodard 2019). It may not be wise to map computing education exclusively on to industry requirements.
