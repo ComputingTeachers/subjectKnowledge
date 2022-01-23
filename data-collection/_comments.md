@@ -39,9 +39,8 @@ But there is no way of validating this
 
 > My confidence has increased as a result of teaching in a secondary school for three months. I am now aware that my subject knowledge is good enough to deliver classes, as opposed to pre-teaching, when I assumed that some particularly high-level students might have subject knowledge better than mine, which is far from the case in the secondary school I am currently working in
 
-> The department management outright refused to allow me to teach according to this audit
 
-> I haven't had time for significant work on my subject knowledge which is outside areas of the curriculum
+
 
 
 > The school is teaching a number of things that are not in the audit.  Such as basic Word skills and other more ICT focused topics (iMedia)
@@ -50,13 +49,10 @@ But there is no way of validating this
 
 > Perhaps the audit could be split up into categories such as 'Computer Science Knowledge for Schools' and 'Wider Subject Knowledge' to avoid the risk of unnecessarily knocking the confidence of student teacher's subject knowledge."
 
-> a lot of areas that have not changed as they have not been relevant to what I have been teaching.
-
-They have been in school 8 weeks * 4 days = 32 days
 
 > my confidence has gone up a little but I am not sure if the tracker reflects this
 
-> I still prefer the new audit model for its clarity and easy to answer the confidence for each topic
+
 
 
 > Several of the points on the new subject-knowledge audit are well outside of the scope of KS3, GCSEs and A Levels in Computer Science. In discussion with my department and Computing Teachers at other schools they have also agreed that there are several points that would not be covered in a Secondary School.
@@ -70,7 +66,7 @@ They have been in school 8 weeks * 4 days = 32 days
 
 You cant write a bubblesort (or any of ther algorithums) without these concepts. There is no point in listing these lower level skills as they are implicitly required by many of the other tasks.
 
-> It should feel like it all fits together to tick off your GCSE lesson. 
+
 
 > perhaps if we don't have any evidence we could evidence a lesson we've observed and learnt something from the teacher.
 
@@ -84,17 +80,14 @@ This confused trainee teachers.
 One list to rule them all. Teachers have the same requirements as students. That does not sit well with me. Teachers should have more advanced knowledge than the students
 
 
-> (old audit) gives me more flexibility to work on developing my skills in ways that I see fit, as opposed to a pre-prescribed way 
+> (old audit) gives me more flexibility to work on developing my skills in ways that I see fit, as opposed to a pre-prescribed way
 
 There was a lack of being able 
 
 * Student teachers repeatedly misunderstood that this was a teacher knowledge/skill audit and mistakenly assumed the students needed to perform these tasks.
-* Cited many times "not on the computing curriculum". Just look at the bullet points - but fail to digest/understand the opening paragraph
-    * "equips pupils to use computational thinking and creativity to understand and change the world"
-    * > how digital systems work and how to put this knowledge to use through programming
-    * > at a level suitable for the future workplace and as active participants in a digital world
-    * > can analyse problems in computational terms, and have repeated practical experience of writing computer programs in order to solve such problems
-* (Peyton Jones) cited in his address - Where is the AI - we don't need to rewrite the national curriculum
+
+
+
 
 Confused by "having" to do all of the audit with students. Use of GitHub - school refused.
 Trainees are unable to distinguish between role requirements and knowledge requirements, curriculum
