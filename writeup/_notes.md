@@ -207,7 +207,24 @@ TODO
 
 --- cutouts
 
+Developing teachers subject knowledge is a core component of Initial Teacher Training (Department for Education, “Initial Teacher Training (ITT): Core Content Framework” and “Teachers’ Standards”).
+
+
 
 Christian and Griffiths in their book Algorithms to Live by: The Computer Science of Human Decisions 2016, attempts to describe computer science patterns that map onto human behaviour. These are often trivial observations e.g. "The use of caching" by keeping regularly used objects in more accessible locations. A deep knowledge of computing does not seem to offer a meaningful advantage or deeper insight into how people engage with everyday activities.
 
 Woodard in his American Affairs opinion piece "Rotten STEM" cautions that STEM is no longer about Science and Maths and is all about providing tech workers for industry. We should be cautions about the requirements of industry contaminating education. Education is border than just developing monetisable skills (Woodard 2019). It may not be wise to map computing education exclusively on to industry requirements.
+
+
+
+
+
+Nijenhuis-Voogt et al did a qualitative study of 7 computing teachers in the netherlands about their approaches. Half of these teachers were coded as Old CT and the other half New CT. Although Kent is not the same setting, this tracks with my perceptions of what I observe in the attitudes of my school computing mentors in Kent. When I raised this point with my trainees in a seminar the debate seemed fairly balanced on both sides. These indicators combined gives me reasonable confidence in suggesting that there is general split between Old CT and New CT in the profession.
+
+
+Bridges 2007 warns: "At it's best, classroom action research seems to me to represent a reaffirmation of personal integrity, responsibility and authority in an environment that threatens to undermine all of these". 
+
+This approach is a significantly simplified attempt to interpret my data. This is an area I would like to formalise/develop as I continue my journey with education research.
+
+
+Pinar (2011) in the book "What Is Curriculum Theory?" defined the curriculum as "complicated conversations" with practitioners rather than the formulation of objectives evaluated by standardized tests. Pinar posits that the curriculum is largely intertwined with the perceptions of the practitioners that teach it. 

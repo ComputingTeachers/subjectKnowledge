@@ -16,21 +16,23 @@ The Context/Problem/Question
 I have a background in secondary education (7 years), commercial software engineering (10 years), higher education lecturing (including computing BSc) (4 years). My skill set gives me experience of teaching computing to 11 year old's though to professional developers. Given my history; I hope my insight and perspective can influence formal education in a positive and meaningful way.
 
 
-### Enhancing Teaching, Assessing and Supporting HE (ETAS) - Question
+### Previous Question
 
-I wrote a short piece earlier this year raising question the issues about supporting teachers subject knowledge development in computing. A few important excerpts are listed below:
+I wrote a short piece earlier this year raising issues about measuring trainee teachers subject knowledge development.
 
-Students are required to self assess their skills and identify their subject knowledge gaps (Rhoades 2014). Rhoades states "any overestimation or even underestimation of your knowledge will be counter productive". Trainee's self assessment of subject knowledge is varied and inaccurate as trainees have no benchmark or reference point to based their skills assessment upon (Schmid 2021 1.1). Trainees lack the knowledge of the curriculum to judge if their stills are sufficient. (Jones et al., 2019) cited McNamara (1991) in stating; a teachers' restricted subject knowledge affects the quality of teaching and causes serious deficiencies in student learning, this deficiency is not immediately identifiable. (D2 V pedagogical research)
+In summary:
+* Trainees are currently required to self assess their skills and identify their subject knowledge gaps
+* Existing questionnaires have been criticized regarding the fuzzy, technology-unspecific, and content-agnostic wording
+* Trainee's self assessment of subject knowledge is varied and inaccurate as trainees have no benchmark or reference point to based their skills assessment upon
+* Trainees lack the knowledge of the curriculum to judge if their stills are sufficient
 
-> Existing questionnaires have been criticized regarding the fuzzy, technology-unspecific, and content-agnostic wording of questionnaire items, which ask participants to rate the “appropriateness” of their competencies
-(Schmid, Brianza and Petko, 2021)
-
-Ultimately assessing subject knowledge for trainee teachers is a secondary concern. What matters is that they can deliver good lessons (V4 wider context). Subject knowledge could ultimately be assessed through the lesson content that the trainees create and deliver. This approach is confirmed by (Blömeke and Delaney, 2014) who state that we should be moving beyond self-reported subject knowledge audits. (K1 subject material)
+This can be read in full in Appendix XXX.
 
 
 ### Action Research Question
 
 Can trainee teachers accurately self-evaluate their subject knowledge and use this to guide their subject knowledge development?
+
 
 ### Context for the research
 
@@ -45,18 +47,15 @@ Can trainee teachers accurately self-evaluate their subject knowledge and use th
 Literature Review and Rational for the Intervention
 ---------------------------------------------------
 
-Developing teachers subject knowledge is a core component of Initial Teacher Training (Department for Education, “Initial Teacher Training (ITT): Core Content Framework” and “Teachers’ Standards”).
 In 2016 Sentance and Csizmadia surveyed 300 Computing teachers in the UK (Sentance and Csizmadia). The biggest concern computing teachers had was "sufficient subject knowledge". (This research is ageing and may not reflect current trends)
 
 
 ### Definition of Computing Subject knowledge and skills
 
 Denning, a professor of Computing working at MIT/Princeton and awarded "SIGCSE Award for Lifetime Service to Computer Science Education" has cautioned that
-"Many employers no longer trust transcripts and diplomas.". He advocates that "computing education would benefit from a deep look at competency-based assessment". In his paper "Remaining trouble spots with computational thinking" he comparers "Traditional Computational Thinking" and "New Computational Thinking". Old computational thinking is traditional solving problems practically with developing programs on a computer. New computational thinking involves no use of a computer and thinking about problem solving approaches. New CT was coined by Wing (a professor of computer science at Carnegie Mellon) in 2006. Wing stated that these problem solving skills were not just relevant to computing could be used in other disciplines. 
+"Many employers no longer trust transcripts and diplomas.". He advocates that "computing education would benefit from a deep look at competency-based assessment". In his paper "Remaining trouble spots with computational thinking" (Denning 2019) comparers "Traditional Computational Thinking" and "New Computational Thinking". Old computational thinking is traditional solving problems practically with developing programs on a computer. New computational thinking involves no use of a computer and thinking about problem solving approaches. New CT was coined by Wing (a professor of computer science at Carnegie Mellon) in 2006. Wing stated that these problem solving skills were not just relevant to computing and could be used in other disciplines. 
 
-Nijenhuis-Voogt et al did a qualitative study of 7 computing teachers in the netherlands about their approaches. Half of these teachers were coded as Old CT and the other half New CT. Although Kent is not the same setting, this tracks with my perceptions of what I observe in the attitudes of my school computing mentors in Kent. When I raised this point with my trainees in a seminar the debate seemed fairly balanced on both sides. These indicators combined gives me reasonable confidence in suggesting that there is general split between Old CT and New CT in the profession.
-
-There have been debates between these two computational thinking ethos. Denning warns that new computational thinking has no evidence that indicates that the skills are transferable/useful in other domains. I agree with Denning. Young people build skills by writing real programs. New CT skills appear limited in scope in industry and limited scope as transferable skills.
+There have been debates between these two computational thinking ethos. Denning warns that New CT has no evidence that indicates that the skills are transferable/useful in other domains. I agree with Denning. Young people build skills by writing real programs. New CT skills appear limited in scope in industry and as transferable skills.
 
 Kolikant 2010 gives an argument for "make the CS classroom more authentic, more similar to the real work setting of CS practitioners" and "substituting lecture for lab time". 
 
@@ -65,62 +64,16 @@ Historically the GCSE has a non-exam assessed practical component. In 2018 Ofqua
 If New CT has little evidence to support it, then why is it so prevalent? I think this is due to the way computing is assessed in schools. The GCSE is 100% exam based without a computer. Theoretically a student can pass the exam without every touching a computer for the duration of their course. Schools rigorously focus their attention on training students to pass the exam. As GCSE's are the only real metric teachers are held accountable for, I can envisage that this has skewed teacher perception into thinking that New CT has greater weight.
 
 
-### Existing Computing Audits
+#### Existing audits
 
-#### Expert Group: Computer Science Teacher Training (2012)
-
-In 2012 the Department for Education released a document titled “Subject Knowledge Requirements for Entry into Computer Science Teacher Training. Expert Group’s Recommendations”.
-> subject knowledge specified below is considered by an expert group ... to be the minimum necessary for trainees to take full advantage of the training offered and to produce teachers capable of teaching a rigorous course in the secondary phase
-
-The content of this document is excellent. It covers many of the core aspects of computing including fetch-execute-cycle, data encoding, network protocols and error correction. Many of these straddle the boundary between GCSE and A-Level. 
-
-If I was to actually use these criteria as "the minimum necessary" then my course would not run because I would have to reject most candidates at interview due to weak subject knowledge.
-
-All the requirements state a trainee should "Explain"; there is no requirement for trainees to "Demonstrate" any of these skills.
-
-#### Leeds Trinity University
-
-* Categorised into 3 broad categories: Knowledge, Skills, and Learning Outcomes
-* Items are hard to qualify:
-    * "think creatively, innovatively, analytically, logically and critically"
-    * use abstraction effectively
-    * take a systematic approach to problem solving including the use of decomposition and abstraction, and make use of conventions including pseudo code and flowcharts
-* Items are ranked with: (these are not well defined)
-    1. I have some knowledge of this
-    2. I have secure knowledge of this
-    3. I can teach this
-    4. I can teach this in several different ways
-
-#### Sommerset Learning Platform
-
-Somerset has a county learning platform that has Computing subject knowledge documents from 2015. The teacher knowledge requirements are a copy of the 'expert group recommendations from 2012' with little additional information about how these can be evidenced, achieved or tracked.
-
-#### Survey other subjects audits
-
-These are samples of subject knowledge audits for trainees teachers from Canterbury Christ Church University 2021/2022.
-
-##### Maths
-
-See Appendix XXX
-
-Maths is a very established subject that challenges students problem solving abilities. This has parallels with the algorithmic problem solving in computing.
-
-This is largely the gcse exam-board specification.
-
-##### Music
-
-See Appendix XXX
-
-I selected Music as this subject has a range of demonstrable practical skills rather than desecrate knowledge. I wanted to compare how these practical skills are measured trainees.
-
-Music Tech skills are listed separately. The categories are very broad (e.g Keyboard skills) with a rating 1 to 4. The rating descriptors are significantly lengthy as defined for the institution. Theses are the same descriptors I distilled my computing levels from.
+A range of other institutions teacher education audits for computing and other subjects are explored and described in Appendix xxx
 
 
 #### Other measures of teacher knowledge
 
 National Center for Computing Education (NCCE) have there own "Subject Knowledge Certificate" on a program called "The Computer Science Accelerator" (Computer Science Accelerator Programme 2019).
 
-Subject knowledge certificates are awarded after attending multiple course modules (some online async, online live, or face-to-face) and completing a multiple choice assessment. Many of the questions are sourced from eedi.com's diagnostic questions bank. (Education Endowment Foundation 2021).
+Subject knowledge certificates are awarded after attending multiple course modules (some online async, online live, or face-to-face) and culminating in a multiple choice assessment. Many of the questions are sourced from eedi.com's diagnostic questions bank. (Education Endowment Foundation 2021).
 
 The NCCE have a set of Diagnostic Questions (Barton 2016) to assess teachers computing knowledge.
 
@@ -131,7 +84,7 @@ Multiple choice questions only assess theory knowledge and not practical skill.
 
 ### Literature Review Conclusions
 
-Audits for other subjects closely mirror the GCSE specification.
+Audits for other subjects closely mirror the GCSE specification for the subject.
 
 Existing audits target theory knowledge and often have vague criteria for ascertaining the current working level.
 
@@ -157,9 +110,6 @@ A copy of this experimental audit is available in Appendix XXX
 
 Research Methodology
 --------------------
-
-Rework the PGCE trainee teacher computing subject knowledge audit to include measurable practical implementation of theory skills.
-
 
 ### Aims and objectives
 * Aims (statement of intent)
@@ -191,7 +141,6 @@ Key measures indicating success:
 4. There is evidence to support that practical computing skills development has taken place
     * This could be evidenced by student portfolio progress when reviewed in December
 
-
 ### Research Design
 
 
@@ -201,31 +150,27 @@ I will give my trainees two questionnaires (3 months apparat) that survey their 
 
 #### Codification of open question responses
 
-Action Research Education (Mcater 2013) proposes a range of approaches for research techniques in education. I will attempt to perform a thematic analysis by  identifying unexpected data and points of disagreements and codifying these outcomes. I should be cautions about the seduction of dominant discourse. "Modes of discourse become so culturally embedded that they enter into widespread acceptance, and are rarely the subject of question or debate" (Mcateer and British Educational Research Association 107–128 (Chapter 6))
+Action Research Education (Mcater 2013) proposes a range of approaches for research techniques in education. I will attempt to perform a thematic analysis by identifying unexpected data and points of disagreements and codifying these outcomes. I should be cautions about the seduction of dominant discourse. "Modes of discourse become so culturally embedded that they enter into widespread acceptance, and are rarely the subject of question or debate" (Mcateer and British Educational Research Association 107–128 (Chapter 6))
 
 I have a sample size of 7 students and mentors, my study will be of poor quality based on the quality indicators (Reliability, validity, replicable, objectivity, generalisability).
-
-Bridges 2007 warns: "At it's best, classroom action research seems to me to represent a reaffirmation of personal integrity, responsibility and authority in an environment that threatens to undermine all of these". Action research's main use is for a practitioner to attempting to realign their thinking.
 
 The 'Coding Manual For Qualitative Researchers' (Saldaña 2016) cites an argument from Strauss's conveying the importance of coding in qualitative research. 
 This is counted by an assertion from Packer that on a practical level, coding is impossible to practice.
 
-(Saldaña 2016) describes first cycle coding methods and second cycle coding methods for taking open response questions and categorising them. In professional research this codification should be done by someone external to the study or the domain to reduce bias. I will attempt to perform a cut down rendition of these principles.
+(Saldaña 2016) describes first cycle coding methods and second cycle coding methods for taking open response questions and categorising them. In professional research this codification should be done by someone external to the study or the domain to reduce bias.
 
 First cycle, I will identify the main themes and give them a code. Second cycle, I wil attempt to count the number of occurrences of these codes. I will demonstrate the codes and commentary in my appendix.
 
-This approach is a significantly simplified attempt to interpret my data. This is an area I would like to formalise/develop as I continue my journey with education research.
+The quality of the data and analysis in this study is poor. Action research's main use is for a practitioner to attempting to realign their thinking.
 
 
 #### Focus group discussion
 
-Pinar (2011) in the book "What Is Curriculum Theory?" defined the curriculum as "complicated conversations" with practitioners rather than the formulation of objectives evaluated by standardized tests. Pinar posits that the curriculum is largely intertwined with the perceptions of the practitioners that teach it. 
+Pinar (2011) posits that the curriculum is largely intertwined with the perceptions of the practitioners that teach it.
 
-I will record the audio from a focus group conversation between my trainees after 3 months of using the new subject knowledge audit. This open forum will hopefully reveal deeper insights than my questionnaires as this will involve discourse between eh trainee teachers. They will be asked to discuss the same questions given to mentors.
+I will record the audio from a focus group conversation between my trainees after 3 months of using the new subject knowledge audit. This open forum will hopefully reveal deeper insights than my questionnaires as this will involve discourse trainees. They will be asked to discuss the same questions given to mentors.
 
-I will attempt to perform an Interpretative phenomenological analysis (IPA) to offer insight into to offer insights into how trainee teachers computing teachers makes sense of a subject knowledge development. This is in the domain of Hermeneutics as the theory and practice of interpretation where the interpretation can be justified.
-
-The small sample size of trainees makes this approach possible.
+I will attempt to perform an Interpretative phenomenological analysis (IPA) to offer insight into to offer insights into how trainee teachers computing teachers makes sense of a subject knowledge development. This is in the domain of Hermeneutics as the theory and practice of interpretation, where the interpretation can be justified.
 
 I will use the same codification process as used with the questionnaires to interpret the focus group discussion.
 
@@ -256,7 +201,7 @@ Results
 I have totalled the codified sentiments and discussed them below.
 See Appendix for full results codification table. 
 
-I was unable to track individual progress from september to december. The questionnaire were anonymous and students forgot the fake-names/identifiers that had used in the first questionnaire. (I need a new strategy for this in future)
+I was unable to track individual progress from september to december. The questionnaire were anonymous and students forgot the 'code-names' that had used in the first questionnaire.
 
 
 ### Results - Codification - Commentary
@@ -311,7 +256,7 @@ Another misunderstanding was trainees believed they had to complete the whole au
 
 #### Scope6 - Request more macro scope - 4 references
 
-Some trainees requested broader scope in the items citing "Societal Impact" and "Privacy". My concern with this broad definitions is how would a trainee be able to measure their knowledge in these areas? They are so ephemeral I don't think they would provide value in an audit.
+Some trainees requested broader scope in the items citing "Societal Impact" and "Privacy". My concern with this broad definitions is how would a trainee be able to measure their knowledge in these areas?
 
 Trainees wanted more autonomy over their skill development.
 
@@ -343,18 +288,20 @@ Conclusion: Little impact on confidence - trainees largely ignored the audit
 
 
 
-Conclusions
------------
+Results Discussion
+------------------
 
 The old subject knowledge audit provided little meaningful value because the categories were not well defined enough for a novice practitioner to identify areas of development
 
 The new subject knowledge audit provided little meaningful value because the categories were not aligned with the institutions novice practitioners were teaching in.
 
+As the audits were not an assessment requirement, it was largely ignored by trainees and mentors.
+
 My original concept, was that if teachers were able to practically demonstrate the theoretical computing concepts with practical application. This would improve the quality of lessons computing teachers were able to create. The average trainee does not have the practical skills to do this and there is not sufficient time within the course to develop these skills. In modifying to the subject knowledge audit to include a practical dimension I alienated mentors and demoralised trainees.
 
 I wanted to show a 'complete world map' of the dimensions of the discipline of computing. Even with verbal guidance and supporting text, many of my trainees were unable to distinguish what 'could be possible over a lifetime of teaching computing' with 'what is required in the next few months to gain qualified teacher status'. They were unable to conceive the audit tool as something they might be referring to for the next 5 years+. This created confusion and stress for trainees.
 
-As the audits were not an assessment requirement, it was largely ignored by trainees and mentors.
+I feel naive for making the changes that I made.
 
 
 ### Reflecting on effectiveness of intervention
@@ -391,8 +338,8 @@ As the audits were not an assessment requirement, it was largely ignored by trai
 ### Reflecting on the Scope of the school computing curriculum
 
 Trainees cited many times "not on the computing curriculum". In a subject session I asked them "was AI on the curriculum". The were unable to cite where it was. Their answer was "AI was not on the curriculum".
-The national curriculum is deliberately open for interpretation. Each school has the freedom form their own approach. 
-Professor Simeon Peyton Jones cited in his NCCE address "Where is the AI". He states "we don't need to rewrite the national curriculum to include AI. AI is already inferred by the opening paragraph" (Peyton Jones 2021)
+The national curriculum is deliberately open for interpretation at KS3. Each school has the freedom form their own approach. 
+Professor Simeon Peyton Jones cited in his NCCE address "Where is the AI"; "we don't need to rewrite the national curriculum to include AI. AI is already inferred by the opening paragraph" (Peyton Jones 2021)
 * > A high-quality computing education equips pupils to use computational thinking and creativity to understand and change the world
 * > ... how digital systems work and how to put this knowledge to use through programming
 * > ... at a level suitable for the future workplace and as active participants in a digital world
@@ -402,16 +349,16 @@ There are many freely available web accessible systems for teaching AI to whole 
 
 The 7 trainees in this survey had only 32 days of school experience. They have limited experience to make judgements about curriculum content.
 
-KS3 is flexible and at the schools discretion. KS4 is examined by a national paper exam. To raise results, schools ensure KS3 has a progression pathway of the concepts in KS4. Thus leading to the prevailing opinion that many topics are "not in the curriculum" if there is not a direct exam question for them.
+KS3 is flexible and at the schools discretion. KS4 is examined by a national paper exam. To raise results, schools ensure KS3 is a progression pathway of the concepts in KS4. Thus leading to the prevailing opinion that many topics are "not in the curriculum" if there is not a direct exam question for them.
 
 
-### Next Study: Suggestions
+### Next Investigation: Suggestions
 
-Biggs and Tang 2011 describe the concept of "Constructive Alignment" where the learning objectives, assessment and lesson content are all in alignment. They suggest that any change to one of these must involve changes to all three components. By changing only one aspect of my course it was clear that it was going to have limited impact and create confusion. Future studies that involve alterations to course materials should be carefully consider other aspects that need to be updated.
+Biggs and Tang 2011 describe the concept of "Constructive Alignment" where the learning objectives, assessment and lesson content are all in alignment. By changing only one aspect of my course it was clear that it was going to have limited impact and create confusion. Future alterations to course materials carefully consider other aspects that need to be updated.
 
 For a more academically rigorous study, it would be wise to ensure that someone external to the project provides the codification of questionnaire responses or interviews. This will counter some the inherent bias that the creators of the study may have. Interviews should also be conducted by 3rd parties for the same reason.
 
-To get a complete picture of teacher skills development, the scope should be widened to study teachers with a range of years of service. This could reveal deeper insights into how teachers skills develop to inform meaningful changes to initial teacher education.
+To get a complete picture of teacher skills development, the scope should be widened to study teachers with a variety of years of service. This could reveal deeper insights into how teachers skills develop to inform meaningful changes to initial teacher education.
 
 
 ### Actions to improve practice
@@ -423,6 +370,8 @@ An exam board GCSE specification lists the knowledge/skills needed and has mecha
 Trainees teachers do not have the capacity to focus on developing sills for topics that their students are not directly assessed on.
 
 Is up to the individual teachers or individual school computing departments to develop their own custom computing opportunities (if they have the capacity). These additional opportunities cannot (and probably 'should not') be controlled by external entities.
+
+Ultimately assessing subject knowledge for trainee teachers is a secondary concern. What matters is that they can deliver good lessons. Subject knowledge could ultimately be assessed through the lesson content that the trainees create and deliver. This approach is confirmed by (Blömeke and Delaney, 2014) who state that we should be moving beyond self-reported subject knowledge audits.
 
 The government has provided £80 million funding for the NCCE upskill computer science teachers. They are offering nationally accredited courses and bursary's of £2500 for trainees to take to their first employing school. This gives trainees incentive and accreditation for their subject knowledge development. This funding is due to expire in the summer of 2022 (Sentance 2019). It will be interesting to see what incentives are offered to computing trainees in future.
 
@@ -443,9 +392,10 @@ Actions for my teaching next academic year 2022/2023:
 
 Industry is taking measures into their own hands. Many employers are loosing faith in the weight behind formal computing qualifications. Industry is inventing their own professional certification and their own recruitment screening process that is largely based on practical skills. (Denning, more citation needed, this is common)
 
-A follow-up questions might be: "What is the purpose of Computing Education in secondary schools", "What should schools be focusing on?" and "How can we make meaningful positive change to computing education?".
+A follow-up questions might be: "What is the purpose of Computing Education in secondary schools" and "How can we make meaningful positive change to computing education?".
 
-Speaking to undergraduates and local school teachers, there is a growing desire to develop practical computing skills that formal education is not catering for. Coder Dojo's (coderdojo.com), Coding Dojo (codingdojo.org), Code Club's (codeclub.org) and other independent groups are setting up all over the world to cater for the missing parts of computing from mainstream education. I am in the process of investigating how to provide weekly group that spans secondary students, though undergrads, though junior developers. As an institution, Canterbury Christ Church is in a great position to host such a group. It would be interesting to see if this approach is viable and will be the focus of my next investigation.
+Speaking to undergraduates and local school teachers, there is a growing desire to develop practical computing skills that formal education is not catering for. Coder Dojo's (coderdojo.com), Coding Dojo (codingdojo.org), Code Club's (codeclub.org) and other independent groups are setting up all over the world. I am in the process of investigating how to provide weekly group that spans secondary students, though undergrads, though junior developers. As an institution, Canterbury Christ Church is in a great position to host such a group. It would be interesting to see if this approach is viable and will be the focus of my next investigation.
+
 
 Bibliography
 ============
