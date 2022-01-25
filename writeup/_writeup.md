@@ -26,7 +26,7 @@ In summary:
 * Trainee's self assessment of subject knowledge is varied and inaccurate as trainees have no benchmark or reference point to based their skills assessment upon
 * Trainees lack the knowledge of the curriculum to judge if their stills are sufficient
 
-This can be read in full in Appendix XXX.
+This can be read in full in [Appendix A](#appendix-a).
 
 
 ### Action Research Question
@@ -457,13 +457,3 @@ Thorsnes, Jørgen, et al. “In-Service Teacher Training and Self-Efficacy.” I
 Wing, Jeannette M. “Computational Thinking.” Communications of the ACM, vol. 49, no. 3, 1 Mar. 2006, p. 33, dl.acm.org/citation.cfm?id=1118215, 10.1145/1118178.1118215.
 
 Woodard, Jared. “Rotten STEM: How Technology Corrupts Education.” American Affairs Journal, American Affairs Foundation, 20 Aug. 2019, americanaffairsjournal.org/2019/08/rotten-stem-how-technology-corrupts-education/. Accessed 8 Jan. 2022. Fall 2019 / Volume III, Number 3.
-
-
-Appendix
-========
-
-@import "./prelude.md"
-
-@import "../data-collection/students-december.csv"
-
-@import "../data-collection/coding.md"
