@@ -91,8 +91,8 @@ Existing audits target theory knowledge and often have vague criteria for ascert
 Practical application of computing skill is important. If young people can 'create a sound wave with code' they will understand how sound is stored and processed by a computer. If young person can 'send a UDP packet from one computer to another with code' then they understand network addresses, ports and sockets. Many of the national curriculums theory requirements can be explained meaningfully though practical application. I expect a computing teachers skill-set to reflect this.
 
 
-Proposed New Audit
-------------------
+Proposed Intervention
+---------------------
 
 My re-worked subject knowledge audit proposes a new level system:
 1. Theoretical understanding (evidence - maybe past exam question or previous degree module grade)
@@ -189,8 +189,8 @@ All participants have completed consent forms and are aware that their data is c
 Two questionnaires will be given 3 months aspart. To match the trainees responses over the time period, rather than collecting a name I a collect a 'code-name' they can enter in each questionnaire to identify participants.
 
 
-Data Acquisition
-----------------
+Data
+----
 
 See Appendix XXX for questionnaire's and focus group questions.
 
