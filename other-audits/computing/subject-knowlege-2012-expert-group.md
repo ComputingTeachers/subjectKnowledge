@@ -1,8 +1,20 @@
-Subject knowledge requirements for entry into computer science teacher training. Expert group’s recommendations 
+Expert Group: Computer Science Teacher Training (2012)
 ===
+
+In 2012 the Department for Education released a document titled “Subject Knowledge Requirements for Entry into Computer Science Teacher Training. Expert Group’s Recommendations”.
+> subject knowledge specified below is considered by an expert group ... to be the minimum necessary for trainees to take full advantage of the training offered and to produce teachers capable of teaching a rigorous course in the secondary phase
+
+The content of this document is excellent. It covers many of the core aspects of computing including fetch-execute-cycle, data encoding, network protocols and error correction. Many of these straddle the boundary between GCSE and A-Level. 
+
+If I was to actually use these criteria as "the minimum necessary" then my course would not run because I would have to reject most candidates at interview due to weak subject knowledge.
+
+All the requirements state a trainee should "Explain"; there is no requirement for trainees to "Demonstrate" any of these skills.
 
 (This is markdown representation of the content from a Teaching Agency DfE in 2012)
 I am unable to find an archive of this document on the official `.gov.uk` site.
+
+Subject knowledge requirements for entry into computer science teacher training. Expert group’s recommendations 
+===
 
 The work is based on: CAS (2012), Computer Science: A Curriculum For Schools, Computing At Schools 
 Working Group, available at www.computingatschools.org.uk ; discussions of the Computer Science 

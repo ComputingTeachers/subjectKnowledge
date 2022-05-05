@@ -3,6 +3,7 @@ Computing Subject Knowledge Audit (201x to 2020)
 
 [old worddoc blackboard](https://learn.canterbury.ac.uk/bbcswebdav/pid-2669165-dt-content-rid-3995226_1/xid-3995226_1)
 
+
 Tracker and Audit.
 
 * to help you know what subject knowledge means for your subject
@@ -18,6 +19,23 @@ It is rather more related to skills, knowledge and understanding of concepts.
 
 You need to appreciate that you will take responsibility for learning new material and raising your level of subject knowledge or software skills, especially when working in schools on placements.
 Your subject tutors, mentors and other teachers can help with resources and in other ways, but this is an aspect of the course in which you need to develop independent strategies for learning.
+
+Levels of subject knowledge
+----
+
+Level 1 as the lowest level, though to Level 4 as the highest level.
+The exact definitions of these levels depend to some extent on the curriculum needs of different subjects.
+
+* Level 1
+    * Some/None: No idea or unsure, insecure knowledge. Need to look it up or refresh knowledge Know the rules but need to refresh knowledge/skills 
+* Level 2
+    * I know and can do:  Quickly recall, answer exam style questions without a prompt. Know the key information, meanings and have the knowledge 
+* Level 3
+    * I understand and can explain:  Focus on teaching: Can explain how and why to someone else. Can use analogies, models or similar Can link prior knowledge and next development stages   Understand progression in topic
+* Level 4
+    * I can help others to learn:  Focus on learning and understanding: Can interconnect and link to other topics. Use relevance and everyday applications Anticipate problems and difficulties through use of common misconceptions and other strategies. Understand conceptual structure. Deconstruct learning into manageable chunks. Enable meta-cognition
+
+Use the final column for notes to describe the origin of your knowledge, for example, from a degree module, work experience, AS/A2 level, independent study etc., to describe actions you take to improve your knowledge and to refer to where evidence of your achievement can be found. 
 
 
 CS1
@@ -90,3 +108,7 @@ CS5 Computers and internet
 10. Explain the personal and economic dangers of using the internet, including for young people, and steps needed to reduce risks
 11. Explain what ergonomics are and why they are important for personal well-being when using computer hardware
 12. Describe some steps computer users can take to ensure their physical well-being when using computers
+
+Additional
+----------
+You can add anything that is not addressed in the audit to the most relevant page although the last page allows you to add any valuable subject knowledge not addressed anywhere else in the audit.
