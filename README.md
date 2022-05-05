@@ -8,24 +8,32 @@ Action Research Investigation
 
 ### Summary
 
+* Old audit
+    * Categories vague
+        * "Understand why computer hardware needs computer software (programs)"
+    * Only measures confidence of trainee 1=weak 4=expert
 * Goal
     * Guide subject knowledge based practical skills
+        * (leading to more engaging lessons)
+            * sending messages over a network, etc
     * Tighten 'working level' (no room for misinterpretation)
 * Outcome
-    * Confused students
+    * Confused trainees
         * Subject knowledge too low to understand how to implement (AI teachable machine, etc)
-        * Misunderstood "audit/knowledge for teachers" (not students)
+            * More guidance needed
+        * Misunderstood "audit/knowledge for teachers" (not tasks for students in class's)
     * Alienated mentors
         * Not aligned with their schools curriculum or skill-set
             * (a deeper problem?)
-    * Trainees have no time for anything other then surviving in school
+    * Trainees have no time for anything other then surviving in school - Stress
         * Just wanted a tick list for the year
-            * I've done 'iteration' - tick (I liken this to 'ive used addition' or 'Ive used sentences')
+            * I've done 'iteration' - tick - (I liken this to 'ive used addition' or 'Ive used sentences')
 * Action
     * Replace Subject Knowledge audit 100% with GCSE spec (mentors and trainees don't want anything more)
     * Test subject knowledge gaps with passed GCSE papers
     * Offer trainees the opportunity to take GCSE in May (Barton Court collaboration)
-    * Focus on quality of lessons delivered rather than abstract audits
+    * What matters is the quality of lessons delivered (Move away from audits)
+
 
 
 Exam Board GCSE Specs
