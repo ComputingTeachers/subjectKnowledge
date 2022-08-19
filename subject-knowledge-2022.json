@@ -1,0 +1,347 @@
+[
+    // https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf
+    // https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Representing_algorithms",
+        "description": "Trace algorithm and determine purpose. Decompose problem. Psudocode. Flowcharts",
+        "url": {
+            "aqa": "Representing_algorithms",
+            "ocr": 17
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Efficiency_of_algorithms",
+        "description": "O(n)",
+        "url": {
+            "aqa": "Efficiency_of_algorithms",
+            "ocr": null
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Searching_algorithms",
+        "description": "linear, binary",
+        "url": {
+            "aqa": "Searching_algorithms",
+            "ocr": 18
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Sorting_algorithms",
+        "description": "bubble, merge, insertion",
+        "url": {
+            "aqa": "Sorting_algorithms",
+            "ocr": 18
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Data_types",
+        "description": "convert between data types",
+        "url": {
+            "aqa": "Data_types",
+            "ocr": 20
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Programming_concepts",
+        "description": "nested iteration",
+        "url": {
+            "aqa": "Programming_concepts",
+            "ocr": 20
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Arithmetic_operations_in_a_programming_language",
+        "description": "modulo",
+        "url": {
+            "aqa": "Arithmetic_operations_in_a_programming_language",
+            "ocr": 19
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Relational_operations_in_a_programming_language",
+        "description": "",
+        "url": {
+            "aqa": "Relational_operations_in_a_programming_language",
+            "ocr": 19
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Boolean_operations_in_a_programming_language",
+        "description": "",
+        "url": {
+            "aqa": "Boolean_operations_in_a_programming_language",
+            "ocr": 19
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Data_structures",
+        "description": "2d array, object/record/struct/dictionary/data-class",
+        "url": {
+            "aqa": "Data_structures",
+            "ocr": 20
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Input_output",
+        "description": "",
+        "url": {
+            "aqa": "Input_output",
+            "ocr": 0
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "String_handling_operations_in_a_programming_language",
+        "description": "substring, ascii",
+        "url": {
+            "aqa": "",
+            "ocr": 20
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Random_number_generation_in_a_programming_language",
+        "description": "",
+        "url": {
+            "aqa": "Random_number_generation_in_a_programming_language",
+            "ocr": 20
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Structured_programming_and_subroutines_procedures_and_functions",
+        "description": "functions with multiple paramiters, local variable scope",
+        "url": {
+            "aqa": "Structured_programming_and_subroutines_procedures_and_functions",
+            "ocr": 20
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Robust_and_secure_programming",
+        "description": "validation, test-data, syntax-vs-logic error",
+        "url": {
+            "aqa": "Robust_and_secure_programming",
+            "ocr": 21
+        }
+    },
+
+
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Number_bases",
+        "description": "",
+        "url": {
+            "aqa": "",
+            "ocr": 0
+        }
+    },
+
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Converting_between_number_bases",
+        "description": "convert between binary, hex, dec",
+        "url": {
+            "aqa": "Converting_between_number_bases",
+            "ocr": 10
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Units_of_information",
+        "description": "byte, kilobyte, kibi",
+        "url": {
+            "aqa": "",
+            "ocr": 10
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Binary_arithmetic",
+        "description": "add 3 numbers, shift",
+        "url": {
+            "aqa": "Binary_arithmetic",
+            "ocr": null
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Character_encoding",
+        "description": "ascii, utf8",
+        "url": {
+            "aqa": "Character_encoding",
+            "ocr": 11
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Representing_images",
+        "description": "calculate bitmap size in bytes",
+        "url": {
+            "aqa": "Representing_images",
+            "ocr": 11
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Representing_sound",
+        "description": "calculate wav size in bytes",
+        "url": {
+            "aqa": "Representing_sound",
+            "ocr": 11
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Data_compression",
+        "description": "rle, huffman tree, lossy/lossless",
+        "url": {
+            "aqa": "",
+            "ocr": 11
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Hardware_and_software",
+        "description": "",
+        "url": {
+            "aqa": "Hardware_and_software",
+            "ocr": null
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Boolean_logic",
+        "description": "logic gates to algebra, xor",
+        "url": {
+            "aqa": "Boolean_logic",
+            "ocr": 22
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Software_classification",
+        "description": "system, application, operating system (user management, file systems)",
+        "url": {
+            "aqa": "Software_classification",
+            "ocr": 15
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Classification_of_programming_languages_and_translators",
+        "description": "interpriter, compiler, assembler, machine code, IDE's",
+        "url": {
+            "aqa": "Classification_of_programming_languages_and_translators",
+            "ocr": 23
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Systems_architecture",
+        "description": "fetch execute cycle, volatile/non-volatile sotrage",
+        "url": {
+            "aqa": "Systems_architecture",
+            "ocr": 8 //9
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Fundamentals_of_computer_networks",
+        "description": "network topologies, tcp, udp, http(s), smtp, mac-address (link layer), dns",
+        "url": {
+            "aqa": "",
+            "ocr": 12  //13
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Fundamentals_of_cyber_security",
+        "description": "",
+        "url": {
+            "aqa": "Fundamentals_of_cyber_security",
+            "ocr": null
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Cyber_security_threats",
+        "description": "DOS, pen-test, Social_engineering, phishing, Malicious_code_malware",
+        "url": {
+            "aqa": "Cyber_security_threats",  // Social_engineering, Malicious_code_malware
+            "ocr": 14
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Methods_to_detect_and_prevent_cyber_security_threats",
+        "description": "biometric, 2 factor",
+        "url": {
+            "aqa": "Methods_to_detect_and_prevent_cyber_security_threats",
+            "ocr": 0
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Relational_databases",
+        "description": "table, record, primary-key, SELECT, FROM, WHERE, ORDER BY, INSERT INTO, UPDATE",
+        "url": {
+            "aqa": "Relational_databases",  // Structured_query_language_SQL
+            "ocr": 20
+        }
+    },
+    {
+        "id": "",
+        "tags": ["gcse"],
+        "title": "Ethical_legal_and_environmental_impacts_of_digital_technology_on_wider_society_including_issues_of_privacy",
+        "description": "cloud, wearables, cookies, data protection, copyright, open source",
+        "url": {
+            "aqa": "Ethical_legal_and_environmental_impacts_of_digital_technology_on_wider_society_including_issues_of_privacy",
+            "ocr": 16
+        }
+    },
+]

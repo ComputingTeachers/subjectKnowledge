@@ -1,0 +1,21 @@
+* [Self-reported technological pedagogical content knowledge (TPACK) of pre-service teachers in relation to digital technology use in lesson plans](https://www.sciencedirect.com/science/article/pii/S0747563220303332) Computers and Behaviour, Volume 115, February 2021 Schmid, Brianza, Petko
+    * > Therefore, research on teacher professional knowledge has extended beyond self-reports and focused on performance-oriented measures like actual classroom performance (Blömeke & Delaney, 2014; Hill, Loewenberg-Ball, & Schilling, 2008).
+    * > There does not seem to be a direct connection between self-reported TPACK and technology use in lesson plans, thus research needs to understand the indirect and mediated connections in order to support teachers in the task of integrating technology in a meaningful way in their lessons.
+* [The effect of teacher’s confidence on technology and engineering curriculum provision](https://link.springer.com/article/10.1007/s10798-019-09542-4) International Journal of Technology and Design Education volume 31, pages 117–137, 2021, Jones, McDermott, Tyrer, Zanker 
+    * > The paper suggests that more significant impact may be achieved in secondary school outreach by allocating resources to focus on assisting and improving the capability of teachers, rather than merely providing free resources and expecting them to be delivered effectively.
+    * > This paper has identified areas of weakness in teaching confidence, which could be the starting point for modular educational training programmes. 
+    * > The evidence presented suggests that professional development activities or changes to teacher training to empower technology subject knowledge development are required to improve secondary school technology and engineering education for pupils.
+* Head of ITE - Canterbury Christ Church University - April 27th 2022 - Operations meeting
+    * Ofsted Judgement on another recent institution
+        * > The ITE curriculums in the secondary phase do not explicitly identify what knowledge trainees should learn. The centre- and school-based training programmes are not purposefully aligned. They are not planned well enough to ensure that trainees, across different routes, deepen their knowledge and practice as well as they could over time. Leaders should ensure that all mentors and course tutors know the specific knowledge that trainees should learn and when they will learn it. This is so that trainees develop their expertise through coherently planned ITE curriculums across both the school- and centre-based training components of the programme. 
+
+
+
+
+* The effectiveness of assessment varies across mentors and schools. Consequently, the feedback that some trainees receive does not help them to identify the gaps in their knowledge and practice. This stops trainees from learning all that they could during their programmes. Leaders should ensure that all mentors and course tutors use the ITE subject curriculums as the mechanism for measuring trainees’ progress through the training programme. 
+
+* The quality of mentoring across the partnership is not consistently effective. This means that some trainees do not get the experiences and input that they need to notice, understand and develop subject-specific and pedagogical knowledge. Leaders should ensure that all mentors fully understand what the provider expects trainees to experience. They should furnish mentors with the knowledge and skills that they need to ensure that all trainees benefit from high-quality general and subject-specific mentoring.  
+
+* Leaders’ quality assurance systems are not used effectively enough. They do not test out how effectively the ITE curriculums are delivered and the impact that they have on trainees’ learning and progress towards becoming effective teachers. This means that trainees get different experiences from centre- and school-based training. Leaders should ensure that the quality assurance systems provide a clear insight into the effectiveness of the training programmes in the secondary phase. 
+
+ 

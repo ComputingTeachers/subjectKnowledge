@@ -7,6 +7,7 @@ Secondary Computing - Subject Knowledge
 * This audit is NOT used for assessment. It is a tool to help teachers grow
 * Levels 1-2 covers a subset of required Computing teachers skills focusing on 'Technical' and 'Content' knowledge from the TPACK model
     * [Technological pedagogical content knowledge](https://en.wikipedia.org/wiki/Technological_pedagogical_content_knowledge)
+    * [Handbook of Technological Pedagogical Content Knowledge (TPACK) for Educators](https://doi.org/10.4324/9781315771328) 2016
 * Level 3-4 focus on pedagogical content knowledge
 * By virtue of a 'working implementation' being required for Level 2, you will be better positioned to create practical/active lessons
 
