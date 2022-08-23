@@ -49,7 +49,7 @@ function renderMarkdownFileToElement(url, $el) {
     .catch(err => console.error(err));
 }
 
-renderMarkdownFileToElement(`subject_knowledge.md`, document.getElementById("description"));
+renderMarkdownFileToElement(`subject_knowledge-2022.md`, document.getElementById("description"));
 renderMarkdownFileToElement(`level_descriptors.md`, document.getElementById("additional"));
 
 
@@ -61,13 +61,17 @@ window.onhashchange = function() {
 }
 
 function renderData(data) {
-    const languages = window.location.hash.replace('#','').split(',').filter((i)=>typeof(i)==="string" && i.length);
+    const URL_PREFIX = {
+        'aqa': 'https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content#',
+        'ocr': 'https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf#page=',
+    }
+
 
     // Clear existing html
     navigationElement.innerHTML = '';
     mainElement.innerHTML = '';
 
-    let tags = data.reduce(
+    const tags = data.reduce(
         (acc, item) => {
             for (let tag of item.tags) {acc.add(tag);}
             return acc;
@@ -77,45 +81,31 @@ function renderData(data) {
     console.log(tags);
 
 
-    // Build navigation
-    /*
-    function nav_a(language, languages) {
-        const a = document.createElement('a');
-        a.href = `#${languages.join(",")}`;
-        a.textContent = language;
-        return a;
-    }
-    for (let language of Object.keys(data.languages)) {
-        navigationElement.appendChild(nav_a(
-            language,
-            languages.indexOf(language) < 0 ? languages.concat([language]) : languages.filter((i)=>i!=language),
-        ));
-    }
-    */
-
-    let keys = ["", "", "Tags", "Pre-course", "December", "April", "June"]
+    const headings = ["", "", "Tags", "Links", "Pre-course", "December", "April", "June"]
 
     // Build Table
     const table = document.createElement('table');
+    mainElement.appendChild(table);
 
     // Table - Heading
     const table_headings = document.createElement('thead');
-    
-    //table_headings.appendChild(document.createElement('th'));
-    for (let key of keys) {
-        const table_heading = document.createElement('th');
-        table_heading.textContent = key;
-        table_headings.appendChild(table_heading);
-    }
     table.appendChild(table_headings);
+    for (let heading of headings) {
+        const table_heading = document.createElement('th');
+        table_headings.appendChild(table_heading);
+        table_heading.textContent = heading;
+    }
 
     // Table - Rows
     let item_count = 0;
     for (let item of data) {
         const table_row = document.createElement('tr');
+        table.appendChild(table_row);
+
         const el_count = document.createElement('td');
-        el_count.textContent = ++item_count;
         table_row.appendChild(el_count);
+        el_count.textContent = ++item_count;
+        
 
         // Item
         const table_item = document.createElement('td');
@@ -133,27 +123,42 @@ function renderData(data) {
         //table_item.innerHTML = `<p>${}</p><p>${item['description']}</p>`;
         table_row.appendChild(table_item);
 
-
+        // Tags
         const el_tags = document.createElement('td');
+        table_row.appendChild(el_tags);
         const el_tags_list = document.createElement('ul');
+        el_tags.appendChild(el_tags_list);
         for (let tag of item.tags) {
             const _li = document.createElement('li');
             _li.textContent = tag;
             _li.className = `tag_${tag}`;
             el_tags_list.appendChild(_li);
         }
-        el_tags.appendChild(el_tags_list);
-        table_row.appendChild(el_tags);
+        
+        
+
+        // Links
+        const el_links = document.createElement('td')
+        table_row.appendChild(el_links)
+        const el_links_list = document.createElement('ul')
+        el_links.appendChild(el_links_list)
+        for (let [key, url] of Object.entries(item.url)) {
+            const _li = document.createElement('li')
+            el_links_list.appendChild(_li);
+            const _li_a = document.createElement('a')
+            _li.appendChild(_li_a)
+            _li_a.textContent = key
+            _li_a.href = `${URL_PREFIX[key] || ''}${url}`
+        }
+
 
         // Create empty cells - not happy about how clumbsy this is
         for (let i=0 ; i < 4 ; i++) {
             table_row.appendChild(document.createElement('td'));
         }
 
-        table.appendChild(table_row);
     }
 
-    mainElement.appendChild(table);
 }
 
 

@@ -14,6 +14,7 @@ Secondary Computing - Subject Knowledge
 
 Simplified Level Descriptors
 ----------------------------
+(see bottom of document for full level descriptors)
 * Level -1
     * Not aware of topic
 * Level 0
