@@ -26,6 +26,18 @@ Simplified Level Descriptors
 * Level 4: Masters level pedagogical discussion about teaching this topic
 
 
+Evidence
+--------
+
+For each review point, state:
+* Level you are currently working at (1 to 4)
+* Provide a reference to evidence, e.g
+    * `Week 8: 9IT2 Networks part2 10/12/2022`
+    * `NCCE Python Introdcution Unit 19/11/2022`
+    * (if possible a link)
+    * An external examiner should be able to find these items in your ePortfolio
+
+
 Source
 ------
 

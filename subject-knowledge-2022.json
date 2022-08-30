@@ -209,7 +209,8 @@
         "description": "calculate bitmap size in bytes",
         "url": {
             "aqa": "Representing_images",
-            "ocr": 11
+            "ocr": 11,
+            "nc": "key-stage-3"
         }
     },
     {
@@ -249,7 +250,8 @@
         "description": "logic gates to algebra, xor",
         "url": {
             "aqa": "Boolean_logic",
-            "ocr": 22
+            "ocr": 22,
+            "nc": "key-stage-3"
         }
     },
     {
@@ -356,12 +358,23 @@
     },
     {
         "id": "",
-        "tags": ["ict"],
+        "tags": ["iMedia"],
         "title": "Animation",
         "description": "Tween, Keyframe",
         "url": {
+            "ocr_imedia": 26
         }
     },
+    {
+        "id": "",
+        "tags": ["iMedia"],
+        "title": "Creating a digital video sequence",
+        "description": "Record and instructional video for a class",
+        "url": {
+            "ocr_imedia": 34
+        }
+    },
+
     {
         "id": "",
         "tags": ["ict"],
@@ -372,10 +385,11 @@
     },
     {
         "id": "",
-        "tags": ["ict"],
-        "title": "HTML",
+        "tags": ["iMedia"],
+        "title": "Web/HTML",
         "description": "h1, table, ul, a, css",
         "url": {
+            "ocr_imedia": 23
         }
     },
     {
@@ -390,7 +404,7 @@
         "id": "",
         "tags": ["other"],
         "title": "Train an AI Image classifier",
-        "description": "teachablemachine.withgoogle.com",
+        "description": "e.g. teachablemachine.withgoogle.com",
         "url": {
         }
     }
