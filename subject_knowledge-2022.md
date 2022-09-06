@@ -22,8 +22,10 @@ Simplified Level Descriptors
 * Level 2: Evidence of Code/Implementation/Practical
     * e.g github link, screenshot, video-screen-capture
 * Level 3: Evidence of Teaching
-    * e.g. link to resources
+    * e.g. link/evidence of resources/plans
+    * Can explain how and why to someone else. Can use analogies, models or similar. Can link prior knowledge and next development stages. Understands the progression in a topic
 * Level 4: Masters level pedagogical discussion about teaching this topic
+    * Can interconnect and link to other topics. Use relevance and everyday applications to motivate. Anticipate problems and difficulties through use of common misconceptions and other strategies. Understand conceptual structure. Deconstruct learning into manageable chunks. Enable meta-cognition.
 
 
 Evidence
