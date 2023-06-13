@@ -457,5 +457,17 @@
         "tags": ["digital-literacy"],
         "title": "interesting hardware",
         "description": "keylogger, magnetic strip reader, smartcard reader, mini printer, leep motion"
+    },
+    {
+        "tags": ["digital-literacy"],
+        "title": "convert a doc file format",
+        "description": "pandoc? av1?"
+    },
+    {
+        "title": "markdown"
+    },
+    {
+        "title": "wiki/knowlege-base",
+        "description": "non linear web of linked concepts. search plain text (maybe with commandline grep?)"
     }
 ]
