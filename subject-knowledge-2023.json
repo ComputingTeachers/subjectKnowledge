@@ -469,5 +469,13 @@
     {
         "title": "wiki/knowlege-base",
         "description": "non linear web of linked concepts. search plain text (maybe with commandline grep?)"
+    },
+    {
+        "title": "api",
+        "description": "use an api. use json."
+    },
+    {
+        "title": "automate a task",
+        "description": "(IDEA course example send text when leave house). Think of more"
     }
 ]
