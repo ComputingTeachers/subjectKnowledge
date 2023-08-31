@@ -1,523 +1,568 @@
 [
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Representing algorithms",
-        "description": "Trace algorithm and determine purpose. Decompose problem. Pseudocode. Flowcharts",
-        "url": {
-            "aqa": "Representing_algorithms",
-            "ocr": 17
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Efficiency of algorithms",
-        "description": "O(n)",
-        "url": {
-            "aqa": "Efficiency_of_algorithms",
-            "ocr": null
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Searching algorithms",
-        "description": "linear, binary",
-        "url": {
-            "aqa": "Searching_algorithms",
-            "ocr": 18
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Sorting algorithms",
-        "description": "bubble, merge, insertion",
-        "url": {
-            "aqa": "Sorting_algorithms",
-            "ocr": 18
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Data types",
-        "description": "convert between data types",
-        "url": {
-            "aqa": "Data_types",
-            "ocr": 20
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Programming concepts",
-        "description": "nested iteration",
-        "url": {
-            "aqa": "Programming_concepts",
-            "ocr": 20
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Arithmetic operations in a programming language",
-        "description": "modulo",
-        "url": {
-            "aqa": "Arithmetic_operations_in_a_programming_language",
-            "ocr": 19
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Relational operations in a programming language",
-        "description": "",
-        "url": {
-            "aqa": "Relational_operations_in_a_programming_language",
-            "ocr": 19
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Boolean operations in a programming language",
-        "description": "",
-        "url": {
-            "aqa": "Boolean_operations_in_a_programming_language",
-            "ocr": 19
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Data structures",
-        "description": "2d array, object/record/struct/dictionary/data-class",
-        "url": {
-            "aqa": "Data_structures",
-            "ocr": 20
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Input output",
-        "description": "",
-        "url": {
-            "aqa": "Input_output",
-            "ocr": 0
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "String handling operations in a programming language",
-        "description": "substring, ascii",
-        "url": {
-            "aqa": "",
-            "ocr": 20
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Random number generation in a programming language",
-        "description": "",
-        "url": {
-            "aqa": "Random_number_generation_in_a_programming_language",
-            "ocr": 20
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Structured programming and subroutines procedures and functions",
-        "description": "functions with multiple parameters, local variable scope",
-        "url": {
-            "aqa": "Structured_programming_and_subroutines_procedures_and_functions",
-            "ocr": 20
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Robust and secure programming",
-        "description": "validation, test-data, syntax-vs-logic error",
-        "url": {
-            "aqa": "Robust_and_secure_programming",
-            "ocr": 21
-        }
-    },
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Representing algorithms",
+		"description": "Trace algorithm and determine purpose. Decompose problem. Pseudocode. Flowcharts",
+		"url": {
+			"aqa": "Representing_algorithms",
+			"ocr": 17
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Efficiency of algorithms",
+		"description": "O(n)",
+		"url": {
+			"aqa": "Efficiency_of_algorithms",
+			"ocr": null
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Searching algorithms",
+		"description": "linear, binary",
+		"url": {
+			"aqa": "Searching_algorithms",
+			"ocr": 18
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Sorting algorithms",
+		"description": "bubble, merge, insertion",
+		"url": {
+			"aqa": "Sorting_algorithms",
+			"ocr": 18
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Data types",
+		"description": "convert between data types",
+		"url": {
+			"aqa": "Data_types",
+			"ocr": 20
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Programming concepts",
+		"description": "nested iteration",
+		"url": {
+			"aqa": "Programming_concepts",
+			"ocr": 20
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Arithmetic operations in a programming language",
+		"description": "modulo",
+		"url": {
+			"aqa": "Arithmetic_operations_in_a_programming_language",
+			"ocr": 19
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Relational operations in a programming language",
+		"description": "",
+		"url": {
+			"aqa": "Relational_operations_in_a_programming_language",
+			"ocr": 19
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Boolean operations in a programming language",
+		"description": "",
+		"url": {
+			"aqa": "Boolean_operations_in_a_programming_language",
+			"ocr": 19
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Data structures",
+		"description": "2d array, object/record/struct/dictionary/data-class",
+		"url": {
+			"aqa": "Data_structures",
+			"ocr": 20
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Input output",
+		"description": "",
+		"url": {
+			"aqa": "Input_output",
+			"ocr": 0
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "String handling operations in a programming language",
+		"description": "substring, ascii",
+		"url": {
+			"aqa": "",
+			"ocr": 20
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Random number generation in a programming language",
+		"description": "",
+		"url": {
+			"aqa": "Random_number_generation_in_a_programming_language",
+			"ocr": 20
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Structured programming and subroutines procedures and functions",
+		"description": "functions with multiple parameters, local variable scope",
+		"url": {
+			"aqa": "Structured_programming_and_subroutines_procedures_and_functions",
+			"ocr": 20
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Robust and secure programming",
+		"description": "validation, test-data, syntax-vs-logic error",
+		"url": {
+			"aqa": "Robust_and_secure_programming",
+			"ocr": 21
+		}
+	},
 
 
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Number bases",
-        "description": "",
-        "url": {
-            "aqa": "",
-            "ocr": 0
-        }
-    },
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Number bases",
+		"description": "",
+		"url": {
+			"aqa": "",
+			"ocr": 0
+		}
+	},
 
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Converting between number bases",
-        "description": "convert between binary, hex, dec",
-        "url": {
-            "aqa": "Converting_between_number_bases",
-            "ocr": 10
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Units of information",
-        "description": "byte, kilobyte, kibi",
-        "url": {
-            "aqa": "",
-            "ocr": 10
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Binary arithmetic",
-        "description": "add 3 numbers, shift",
-        "url": {
-            "aqa": "Binary_arithmetic",
-            "ocr": null
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Character encoding",
-        "description": "ascii, utf8",
-        "url": {
-            "aqa": "Character_encoding",
-            "ocr": 11
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Representing images",
-        "description": "calculate bitmap size in bytes",
-        "url": {
-            "aqa": "Representing_images",
-            "ocr": 11,
-            "nc": "key-stage-3"
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Representing sound",
-        "description": "calculate wav size in bytes",
-        "url": {
-            "aqa": "Representing_sound",
-            "ocr": 11
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Data compression",
-        "description": "rle, huffman tree, lossy/lossless",
-        "url": {
-            "aqa": "",
-            "ocr": 11
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Hardware and software",
-        "description": "",
-        "url": {
-            "aqa": "Hardware_and_software",
-            "ocr": null
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Boolean logic",
-        "description": "logic gates to algebra, xor",
-        "url": {
-            "aqa": "Boolean_logic",
-            "ocr": 22,
-            "nc": "key-stage-3"
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Software classification",
-        "description": "system, application, operating system (user management, file systems)",
-        "url": {
-            "aqa": "Software_classification",
-            "ocr": 15
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Classification of programming languages and translators",
-        "description": "interpreter, compiler, assembler, machine code, IDE's",
-        "url": {
-            "aqa": "Classification_of_programming_languages_and_translators",
-            "ocr": 23
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Systems architecture",
-        "description": "fetch execute cycle, volatile/non-volatile storage",
-        "url": {
-            "aqa": "Systems_architecture",
-            "ocr": 8,
-            "ocr_more": 9
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Fundamentals of computer networks",
-        "description": "network topologies, tcp, udp, http(s), smtp, mac-address (link layer), dns",
-        "url": {
-            "aqa": "",
-            "ocr": 12,
-            "ocr_more": 13
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Fundamentals of cyber security",
-        "description": "",
-        "url": {
-            "aqa": "Fundamentals of cyber security",
-            "ocr": null
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Cyber security threats",
-        "description": "DOS, pen-test, Social_engineering, phishing, Malicious_code_malware",
-        "url": {
-            "aqa": "Cyber_security_threats",
-            "aqa_more": "Social_engineering, Malicious_code_malware",
-            "ocr": 14
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Methods to detect and prevent cyber security threats",
-        "description": "biometric, 2 factor",
-        "url": {
-            "aqa": "Methods_to_detect_and_prevent_cyber_security_threats",
-            "ocr": 0
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Relational databases",
-        "description": "table, record, primary-key, SELECT, FROM, WHERE, ORDER BY, INSERT INTO, UPDATE",
-        "url": {
-            "aqa": "Relational_databases",
-            "aqa_more": "Structured_query_language_SQL",
-            "ocr": 20
-        }
-    },
-    {
-        "id": "",
-        "tags": ["gcse"],
-        "title": "Ethical, legal, social, privacy",
-        "description": "cloud, wearables, cookies, data protection, copyright, open source",
-        "url": {
-            "aqa": "Ethical_legal_and_environmental_impacts_of_digital_technology_on_wider_society_including_issues_of_privacy",
-            "ocr": 16
-        }
-    },
-    {
-        "id": "",
-        "tags": ["ict"],
-        "title": "Spreadsheet",
-        "description": "VLOOKUP, Conditional Formatting",
-        "url": {
-        }
-    },
-    {
-        "id": "",
-        "tags": ["iMedia"],
-        "title": "Animation",
-        "description": "Tween, Keyframe",
-        "url": {
-            "ocr_imedia": 26
-        }
-    },
-    {
-        "id": "",
-        "tags": ["iMedia"],
-        "title": "Creating a digital video sequence",
-        "description": "Record and instructional video for a class",
-        "url": {
-            "ocr_imedia": 34
-        }
-    },
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Converting between number bases",
+		"description": "convert between binary, hex, dec",
+		"url": {
+			"aqa": "Converting_between_number_bases",
+			"ocr": 10
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Units of information",
+		"description": "byte, kilobyte, kibi",
+		"url": {
+			"aqa": "",
+			"ocr": 10
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Binary arithmetic",
+		"description": "add 3 numbers, shift",
+		"url": {
+			"aqa": "Binary_arithmetic",
+			"ocr": null
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Character encoding",
+		"description": "ascii, utf8",
+		"url": {
+			"aqa": "Character_encoding",
+			"ocr": 11
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Representing images",
+		"description": "calculate bitmap size in bytes",
+		"url": {
+			"aqa": "Representing_images",
+			"ocr": 11,
+			"nc": "key-stage-3"
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Representing sound",
+		"description": "calculate wav size in bytes",
+		"url": {
+			"aqa": "Representing_sound",
+			"ocr": 11
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Data compression",
+		"description": "rle, huffman tree, lossy/lossless",
+		"url": {
+			"aqa": "",
+			"ocr": 11
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Hardware and software",
+		"description": "",
+		"url": {
+			"aqa": "Hardware_and_software",
+			"ocr": null
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Boolean logic",
+		"description": "logic gates to algebra, xor",
+		"url": {
+			"aqa": "Boolean_logic",
+			"ocr": 22,
+			"nc": "key-stage-3"
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Software classification",
+		"description": "system, application, operating system (user management, file systems)",
+		"url": {
+			"aqa": "Software_classification",
+			"ocr": 15
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Classification of programming languages and translators",
+		"description": "interpreter, compiler, assembler, machine code, IDE's",
+		"url": {
+			"aqa": "Classification_of_programming_languages_and_translators",
+			"ocr": 23
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Systems architecture",
+		"description": "fetch execute cycle, volatile/non-volatile storage",
+		"url": {
+			"aqa": "Systems_architecture",
+			"ocr": 8,
+			"ocr_more": 9
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Fundamentals of computer networks",
+		"description": "network topologies, tcp, udp, http(s), smtp, mac-address (link layer), dns",
+		"url": {
+			"aqa": "",
+			"ocr": 12,
+			"ocr_more": 13
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Fundamentals of cyber security",
+		"description": "",
+		"url": {
+			"aqa": "Fundamentals of cyber security",
+			"ocr": null
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Cyber security threats",
+		"description": "DOS, pen-test, Social_engineering, phishing, Malicious_code_malware",
+		"url": {
+			"aqa": "Cyber_security_threats",
+			"aqa_more": "Social_engineering, Malicious_code_malware",
+			"ocr": 14
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Methods to detect and prevent cyber security threats",
+		"description": "biometric, 2 factor",
+		"url": {
+			"aqa": "Methods_to_detect_and_prevent_cyber_security_threats",
+			"ocr": 0
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Relational databases",
+		"description": "table, record, primary-key, SELECT, FROM, WHERE, ORDER BY, INSERT INTO, UPDATE",
+		"url": {
+			"aqa": "Relational_databases",
+			"aqa_more": "Structured_query_language_SQL",
+			"ocr": 20
+		}
+	},
+	{
+		"id": "",
+		"tags": ["gcse"],
+		"title": "Ethical, legal, social, privacy",
+		"description": "cloud, wearables, cookies, data protection, copyright, open source",
+		"url": {
+			"aqa": "Ethical_legal_and_environmental_impacts_of_digital_technology_on_wider_society_including_issues_of_privacy",
+			"ocr": 16
+		}
+	},
+	{
+		"id": "",
+		"tags": ["ict"],
+		"title": "Spreadsheet",
+		"description": "VLOOKUP, Conditional Formatting",
+		"url": {
+		}
+	},
+	{
+		"id": "",
+		"tags": ["iMedia"],
+		"title": "Animation",
+		"description": "Tween, Keyframe",
+		"url": {
+			"ocr_imedia": 26
+		}
+	},
+	{
+		"id": "",
+		"tags": ["iMedia"],
+		"title": "Creating a digital video sequence",
+		"description": "Record and instructional video for a class",
+		"url": {
+			"ocr_imedia": 34
+		}
+	},
 
-    {
-        "id": "",
-        "tags": ["ict"],
-        "title": "Styles/Master/Template",
-        "description": "Slide Master, Document Styles, TOC",
-        "url": {
-        }
-    },
-    {
-        "id": "",
-        "tags": ["iMedia"],
-        "title": "Web/HTML",
-        "description": "h1, table, ul, a, css",
-        "url": {
-            "ocr_imedia": 23
-        }
-    },
-    {
-        "id": "",
-        "tags": ["physical"],
-        "title": "Physical",
-        "description": "Microbit or LegoMindstorms or Other",
-        "url": {
-        }
-    },
-    {
-        "id": "",
-        "tags": ["other"],
-        "title": "Train an AI Image classifier",
-        "description": "e.g. teachablemachine.withgoogle.com",
-        "url": {
-        }
-    },
-
-    {
-        "tags": ["digital-literacy", "framework"],
-        "title": "Digital Competence Framework",
-        "url": {
-            "eu": "https://joint-research-centre.ec.europa.eu/digcomp/digcomp-framework_en"
-        }
-    },
-
-    {
-        "tags": ["framework"],
-        "title": "Computing Quality Framework"
-    },
-
-
-    {
-        "tags": ["digital-literacy"],
-        "title": "AI Prompt engineering"
-    },
-    {
-        "tags": ["digital-literacy"],
-        "title": "HIC design principles"
-    },
-    {
-        "tags": ["digital-literacy"],
-        "title": "Education for a connected world",
-        "description": "",
-        "url": {
-            "gov.uk": "https://www.gov.uk/government/publications/education-for-a-connected-world"
-        }
-    },
+	{
+		"id": "",
+		"tags": ["ict"],
+		"title": "Styles/Master/Template",
+		"description": "Slide Master, Document Styles, TOC",
+		"url": {
+		}
+	},
+	{
+		"id": "",
+		"tags": ["iMedia"],
+		"title": "Web/HTML",
+		"description": "h1, table, ul, a, css",
+		"url": {
+			"ocr_imedia": 23
+		}
+	},
+	{
+		"id": "",
+		"tags": ["physical"],
+		"title": "Physical",
+		"description": "Microbit or LegoMindstorms or Other",
+		"url": {
+		}
+	},
+	{
+		"id": "",
+		"tags": ["digital-literacy"],
+		"title": "Train an AI Image classifier",
+		"description": "",
+		"url": {
+			"google": "https://teachablemachine.withgoogle.com"
+		}
+	},
+	{
+		"tags": ["digital-literacy"],
+		"title": "AI Prompt engineering"
+	},
+	{
+		"id": "",
+		"tags": ["pedagogy", "computing"],
+		"title": "Pair Programming",
+		"description": "Co-ordinate, guide, scaffold, a pair programming as part of teaching a topic",
+		"url": {
+		}
+	},
+	{
+		"id": "",
+		"tags": ["pedagogy", "computing"],
+		"title": "Automated Tests",
+		"description": "Student writing expected input/outputs and verifying these. Feedback on progress",
+		"url": {
+		}
+	},
+	{
+		"tags": ["digital-literacy", "framework"],
+		"title": "Digital Competence Framework",
+		"description": "Consider how your students skills map to external competency frameworks",
+		"url": {
+			"eu": "https://joint-research-centre.ec.europa.eu/digcomp/digcomp-framework_en"
+		}
+	},
+	{
+		"tags": ["framework"],
+		"title": "NCCE: Computing Quality Framework",
+		"description": "Framework for inspecting and grading a schools computing provision",
+		"url": {
+			"NCCE": "https://computingqualityframework.org/overview/pdf-version/"
+		}
+	},
+	{
+		"tags": ["digital-literacy"],
+		"title": "HCI design principles",
+		"url":{
+			"iDEA": "https://idea.org.uk/badge/ux"
+		}
+	},
+	{
+		"tags": ["digital-literacy"],
+		"title": "Education for a connected world",
+		"description": "",
+		"url": {
+			"gov.uk": "https://www.gov.uk/government/publications/education-for-a-connected-world"
+		}
+	},
 	{
 		"id": "",
 		"tags": ["digital-literacy"],
 		"title": "Hotkeys",
-		"description": "Windows accessibility, trebble click, setup your own (in IDE?)"
+		"description": "Windows accessibility, window arrangement, undo, select-all, copy/paste, triple click, move tabs"
 	},
 	{
 		"tags": ["digital-literacy", "computing"],
 		"title": "IDE",
-		"description": "TODO"
+		"description": "autoformatter, auto-complete, run/debug cycle, hotkeys"
 	},
 	{
 		"tags": ["digital-literacy"],
-		"title": "Experience of multiple Operating Systems",
-		"description": "Linux, Windows, Mac (cultural capital)"
+		"title": "Multiple Desktop Operating System user paradigms",
+		"description": "Linux, Windows, Mac (cultural capital). differences Hotkeys, privacy, storage, drivers"
 	},
 	{
 		"tags": ["digital-literacy", "computing"],
 		"title": "Command Line",
 		"description": "do an operation in gui and commandline. Download youtube downloaded? encode a video? compress a folder? flags"
 	},
-    {
+	{
 		"tags": ["digital-literacy"],
-		"title": "File formats extensions",
-		"description": "pdf? doc? jpg?"
+		"title": "File formats extensions/mime-types",
+		"description": "pdf? doc? jpg? csv?"
 	},
-    {
-        "tags": ["computing", "digital-literacy"],
-        "title": "version control"
-    },
-    {
-        "tags": ["digital-literacy", "physical"],
-        "title": "interesting hardware",
-        "description": "keylogger, magnetic strip reader, smartcard reader, mini thermal printer, leep motion"
-    },
-    {
-        "tags": ["digital-literacy", "ict", "computing"],
-        "title": "convert a document to other file format. What is lost/damaged?",
-        "description": "pandoc? av1?"
-    },
-    {
-        "title": "markdown"
-    },
-    {
-        "title": "mermaid"
-    },
-    {
-        "title": "wiki/knowlege-base",
-        "description": "non linear web of linked concepts. search plain text (maybe with commandline grep?)"
-    },
-    {
-        "title": "api",
-        "description": "use an api. use json."
-    },
-    {
-        "title": "automate a task",
-        "description": "(IDEA course example send text when leave house). Think of more"
-    },
-    {
-        "title": "report community issues",
-        "description": "abandoned trolleys, planning permission around you and setup alerts?"
-    },
-    {
-        "tags": ["ict", "digital-literacy"],
-        "title": "email rules and forwarding"
-    },
-    {
-        "title": "verify a signature",
-        "description": "blockchain"
-    },
-    {
-        "title": "hash?"
-    },
-    {
-        "title": "rsa key pair - https certificate chain"
-    },
-    {
-        "tags": ["ict"],
-        "title": "printer settings",
-        "description": "duplex, 2 to a page, headers/footers"
-    }
+	{
+		"tags": ["digital-literacy", "ict", "computing"],
+		"title": "Document format conversion",
+		"description": "convert a document to other file format. What is lost/damaged? (docx,odt) (xlsx,csv) pandoc?"
+	},
+
+	{
+		"tags": ["computing", "digital-literacy"],
+		"title": "Version Control",
+		"description": "git?, diff(+,-,context), history, branch, merge"
+	},
+	{
+		"tags": ["digital-literacy", "physical"],
+		"title": "Interesting hardware peripherals",
+		"description": "keylogger, magnetic strip reader, smartcard reader, mini thermal printer, ultraleap, barcode reader, rf reader"
+	},
+	{
+		"title": "markdown"
+	},
+	{
+		"title": "mermaid"
+	},
+	{
+		"title": "wiki/knowlege-base",
+		"description": "non linear web of linked concepts. hashtags, backreferences, search plain text (maybe with commandline grep?)"
+	},
+	{
+		"title": "API",
+		"tags": ["digital-literacy", "computing"],
+		"description": "Use an api to get/post data. Use json."
+	},
+	{
+		"title": "Task Automation",
+		"description": "Automate a task. macros? commandline-script? no-code? (IDEA course example send text when leave house). Think of more",
+		"url":{
+			"iDEA": "https://idea.org.uk/badge/automation"
+		}
+	},
+	{
+		"title": "GDPR",
+		"tags": ["digital-literacy"],
+		"description": "Terminology, rights as a data subject",
+		"url": {
+			"iDEA": "https://idea.org.uk/badge/gdpr"
+		}
+	},
+	{
+		"title": "report community issues",
+		"description": "abandoned trolleys, planning permission around you and setup alerts?"
+	},
+	{
+		"tags": ["ict", "digital-literacy"],
+		"title": "email",
+		"description": "Setup rules and forwarding, signatures, cc and bcc"
+	},
+	{
+		"tags": ["ict"],
+		"title": "printers",
+		"description": "duplex, 2 to a page, headers/footers"
+	},
+	{
+		"tags": ["computing"],
+		"title": "UnrealEngine: Blueprints",
+		"description": "",
+		"url": {
+			"UnrealEngine": "https://dev.epicgames.com/community/learning/courses/QGD/unreal-engine-blueprint-essential-concepts/P7L/unreal-engine-introduction-to-blueprint-essential-concepts"
+		}
+	},
+	{
+		"title": "TODO: verify a signature",
+		"description": "blockchain"
+	},
+	{
+		"title": "TODO: hash?"
+	},
+	{
+		"title": "TODO: rsa key pair - https certificate chain"
+	}
+
 ]
