@@ -4,9 +4,141 @@
     <link id="favicon" rel="shortcut icon" type="image/png" href="data:image/png;base64,....==" />
     <title>Subject Knowledge Audit</title>
     <link rel="stylesheet" href="_base.css">
+    <style>
+        td .title {
+            font-weight: bold;
+        }
+        td .description {
+            color: grey;
+            font-size: smaller;
+        }
+        th:nth-child(n+4) {
+            writing-mode: vertical-lr;
+            padding: 1em;
+        }
+    </style>
     <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
 </head>
 <body>
-    <h1>Coming soon
+    <div id="navigation"></div>
+    <div id="description"></div>
+    <div class="page_break"></div>
+    <h1>Subject Knowledge Tracker 2023</h1>
+    <div id="main"></div>
+    <div class="page_break"></div>
+    <div id="additional"></div>
+<script type="module">
+
+// Consts ----------------------------------------------------------------------
+
+const navigationElement = document.getElementById('navigation');
+const mainElement = document.getElementById('main') || document.getElementsByTagName('body').item(0);
+
+
+// Utils -----------------------------------------------------------------------
+
+export function* range(target, start=0, step=1) {
+    for (let i=start ; i<target ; i+=step) {yield i;}
+}
+
+export function* enumerate(iterable) {
+    let count = 0;
+    for (let item of iterable) {
+        //yield (item[Symbol.iterator]) ? [count++, ...item] : [count++, item];
+        yield [count++, item];
+    }
+}
+
+export const hasIterationProtocol = variable => variable !== null && Symbol.iterator in Object(variable);
+
+export function h(type, params, children) {
+    const el = document.createElement(type)
+    for (let [k,v] of Object.entries(params)) {el[k] = v}
+    if (typeof(children)==="string") {el.appendChild(document.createTextNode(children))}
+    else if (hasIterationProtocol(children)) {
+        for (let c of children) {el.append(c)}
+    }
+    else if (children) {el.appendChild(children)}
+    return el
+}
+
+// Markdown --------------------------------------------------------------------
+
+function renderMarkdownFileToElement(url, $el) {
+    fetch(url)
+        .then(response => response.text())
+        .then((markdown_data) => {
+            const converter = new showdown.Converter();  // https://github.com/showdownjs/showdown
+            $el.innerHTML = converter.makeHtml(markdown_data);
+        })
+    .catch(err => console.error(err));
+}
+
+renderMarkdownFileToElement(`subject_knowledge-2022.md`, document.getElementById("description"));
+renderMarkdownFileToElement(`level_descriptors.md`, document.getElementById("additional"));
+
+
+// Main ------------------------------------------------------------------------
+
+let _data;
+window.onhashchange = function() {
+    renderData(_data);
+}
+
+const URL_PREFIX = {
+    'nc': 'https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study#',
+    'aqa': 'https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content#',
+    'ocr': 'https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf#page=',
+    'ocr_imedia': 'https://www.ocr.org.uk/Images/115888-specification.pdf#page=',
+}
+
+function renderData(data) {
+
+    // Clear existing html
+    navigationElement.innerHTML = '';
+    mainElement.innerHTML = '';
+
+    const tags = data.reduce(
+        (acc, item) => {
+            for (let tag of item.tags || []) {acc.add(tag);}
+            return acc;
+        },
+        new Set(),
+    );
+    //console.log(tags);
+
+
+    const headings = ["", "", "Tags", "Links", "Pre-course", "December", "April", "June"]
+
+    mainElement.appendChild(h('table',{},[
+        h('thead',{},[...headings.map(heading=>h('th',{},heading))]),
+        ...[...enumerate(data)].map(([item_count, item])=>h('tr',{},[
+            h('td',{},`${item_count}`),
+            h('td',{},[
+                h('p',{className: 'title'},item.title),
+                h('p',{className: 'description'},item.description),
+            ]),
+            h('td',{},h('ul',{},(item.tags||[]).map(tag=>
+                h('li',{className:`tag_${tag}`},tag)
+            ))),
+            h('td',{},h('ul',{},[...Object.entries(item.url || {}).map(([key,url])=>
+                h('li',{},h('a',{href: `${URL_PREFIX[key] || ''}${url || ''}`}, key))
+            )])),
+            ...[...range(4)].map(i=>h('td',{},''))
+        ]))
+    ]))
+
+
+}
+
+
+fetch(`subject-knowledge-2023.json`)
+    .then(response => response.json())
+    .then((data)=>_data=data)
+    .then(renderData)
+.catch(err => console.error(err));
+
+
+</script>
 </body>
 </html>

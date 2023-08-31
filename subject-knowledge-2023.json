@@ -378,7 +378,7 @@
     {
         "id": "",
         "tags": ["ict"],
-        "title": "Styles/Master",
+        "title": "Styles/Master/Template",
         "description": "Slide Master, Document Styles, TOC",
         "url": {
         }
@@ -409,6 +409,18 @@
         }
     },
 
+    {
+        "tags": ["digital-literacy", "framework"],
+        "title": "Digital Competence Framework",
+        "url": {
+            "eu": "https://joint-research-centre.ec.europa.eu/digcomp/digcomp-framework_en"
+        }
+    },
+
+    {
+        "tags": ["framework"],
+        "title": "Computing Quality Framework"
+    },
 
 
     {
@@ -421,7 +433,11 @@
     },
     {
         "tags": ["digital-literacy"],
-        "title": "Education for a connected world"
+        "title": "Education for a connected world",
+        "description": "",
+        "url": {
+            "gov.uk": "https://www.gov.uk/government/publications/education-for-a-connected-world"
+        }
     },
 	{
 		"id": "",
@@ -430,7 +446,7 @@
 		"description": "Windows accessibility, trebble click, setup your own (in IDE?)"
 	},
 	{
-		"tags": ["digital-literacy"],
+		"tags": ["digital-literacy", "computing"],
 		"title": "IDE",
 		"description": "TODO"
 	},
@@ -440,7 +456,7 @@
 		"description": "Linux, Windows, Mac (cultural capital)"
 	},
 	{
-		"tags": ["digital-literacy"],
+		"tags": ["digital-literacy", "computing"],
 		"title": "Command Line",
 		"description": "do an operation in gui and commandline. Download youtube downloaded? encode a video? compress a folder? flags"
 	},
@@ -454,17 +470,20 @@
         "title": "version control"
     },
     {
-        "tags": ["digital-literacy"],
+        "tags": ["digital-literacy", "physical"],
         "title": "interesting hardware",
-        "description": "keylogger, magnetic strip reader, smartcard reader, mini printer, leep motion"
+        "description": "keylogger, magnetic strip reader, smartcard reader, mini thermal printer, leep motion"
     },
     {
-        "tags": ["digital-literacy"],
-        "title": "convert a doc file format",
+        "tags": ["digital-literacy", "ict", "computing"],
+        "title": "convert a document to other file format. What is lost/damaged?",
         "description": "pandoc? av1?"
     },
     {
         "title": "markdown"
+    },
+    {
+        "title": "mermaid"
     },
     {
         "title": "wiki/knowlege-base",
@@ -477,5 +496,28 @@
     {
         "title": "automate a task",
         "description": "(IDEA course example send text when leave house). Think of more"
+    },
+    {
+        "title": "report community issues",
+        "description": "abandoned trolleys, planning permission around you and setup alerts?"
+    },
+    {
+        "tags": ["ict", "digital-literacy"],
+        "title": "email rules and forwarding"
+    },
+    {
+        "title": "verify a signature",
+        "description": "blockchain"
+    },
+    {
+        "title": "hash?"
+    },
+    {
+        "title": "rsa key pair - https certificate chain"
+    },
+    {
+        "tags": ["ict"],
+        "title": "printer settings",
+        "description": "duplex, 2 to a page, headers/footers"
     }
 ]
