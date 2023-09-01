@@ -406,7 +406,8 @@
 		"title": "Train an AI Image classifier",
 		"description": "",
 		"url": {
-			"google": "https://teachablemachine.withgoogle.com"
+			"google": "https://teachablemachine.withgoogle.com",
+			"raspberrypi": "https://www.raspberrypi.org/blog/ai-education-resources-what-to-teach-seame-framework/"
 		}
 	},
 	{
@@ -419,14 +420,16 @@
 		"title": "Pair Programming",
 		"description": "Co-ordinate, guide, scaffold, a pair programming as part of teaching a topic",
 		"url": {
+			"teacherEducation": "https://github.com/calaldees/teacherEducation/blob/main/teacherEducation/pairProgramming.md"
 		}
 	},
 	{
 		"id": "",
 		"tags": ["pedagogy", "computing"],
 		"title": "Automated Tests",
-		"description": "Student writing expected input/outputs and verifying these. Feedback on progress",
+		"description": "Tests give students feedback on progress. Student constructing their own assertions and verifying these",
 		"url": {
+			"teacherEducation": "https://github.com/calaldees/teacherEducation/blob/main/teacherEducation/automated_tests.md"
 		}
 	},
 	{
@@ -453,7 +456,7 @@
 		}
 	},
 	{
-		"tags": ["digital-literacy"],
+		"tags": ["digital-literacy", "framework"],
 		"title": "Education for a connected world",
 		"description": "",
 		"url": {
@@ -515,7 +518,10 @@
 	{
 		"title": "API",
 		"tags": ["digital-literacy", "computing"],
-		"description": "Use an api to get/post data. Use json."
+		"description": "Use an api to get/post data. Use json.",
+		"url": {
+			"": "https://rapidapi.com/collection/list-of-free-apis"
+		}
 	},
 	{
 		"title": "Task Automation",
@@ -533,16 +539,12 @@
 		}
 	},
 	{
-		"title": "report community issues",
-		"description": "abandoned trolleys, planning permission around you and setup alerts?"
-	},
-	{
 		"tags": ["ict", "digital-literacy"],
 		"title": "email",
 		"description": "Setup rules and forwarding, signatures, cc and bcc"
 	},
 	{
-		"tags": ["ict"],
+		"tags": ["ict", "digital-literacy"],
 		"title": "printers",
 		"description": "duplex, 2 to a page, headers/footers"
 	},
@@ -555,6 +557,21 @@
 		}
 	},
 	{
+		"tags": ["pedagogy", "computing"],
+		"title": "Network Simulator",
+		"description": "Use a network simulator to make network practical",
+		"url": {
+			"cs4g": "https://netsim.erinn.io/",
+			"code.org": "https://studio.code.org/s/netsim/",
+			"ncce": "https://teachcomputing.org/curriculum/key-stage-4/networks"
+		}
+	},
+
+	{
+		"title": "TODO: register a domain name and host a server somewhere",
+		"description": ""
+	},
+	{
 		"title": "TODO: verify a signature",
 		"description": "blockchain"
 	},
@@ -563,6 +580,10 @@
 	},
 	{
 		"title": "TODO: rsa key pair - https certificate chain"
+	},
+	{
+		"title": "TODO: report community issues",
+		"description": "abandoned trolleys, planning permission around you and setup alerts?"
 	}
 
 ]
