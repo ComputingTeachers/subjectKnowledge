@@ -374,7 +374,6 @@
 			"ocr_imedia": 34
 		}
 	},
-
 	{
 		"id": "",
 		"tags": ["ict"],
@@ -473,6 +472,14 @@
 	},
 	{
 		"id": "",
+		"tags": ["ict", "digital-literacy"],
+		"title": "File Organisation",
+		"description": "Naming your documents. Use of folders. Backing up and restoring your data. Where is your data? (in memory?, on ssd? on usb? on the cloud? which country?)",
+		"url": {
+		}
+	},
+	{
+		"id": "",
 		"tags": ["digital-literacy"],
 		"title": "Hotkeys",
 		"description": "Windows accessibility, window arrangement, undo, select-all, copy/paste, triple click, move tabs, screenshot"
@@ -509,7 +516,6 @@
 		"title": "Document format conversion",
 		"description": "convert a document to other file format. What is lost/damaged? (docx,odt) (xlsx,csv) pandoc?"
 	},
-
 	{
 		"tags": ["computing"],
 		"title": "Version Control",
