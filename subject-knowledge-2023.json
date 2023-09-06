@@ -352,7 +352,7 @@
 		"id": "",
 		"tags": ["ict"],
 		"title": "Spreadsheet",
-		"description": "VLOOKUP, Conditional Formatting",
+		"description": "VLOOKUP, Conditional Formatting, Absolute cell referencing",
 		"url": {
 		}
 	},
@@ -396,8 +396,9 @@
 		"id": "",
 		"tags": ["physical"],
 		"title": "Physical",
-		"description": "Microbit or LegoMindstorms or Other",
+		"description": "Microbit, Arduino, LegoMindstorms, other. Use of sensors and upload to physical device",
 		"url": {
+			"Microbit": "https://microbit.org/"
 		}
 	},
 	{
@@ -425,6 +426,12 @@
 	},
 	{
 		"id": "",
+		"tags": ["computing"],
+		"title": "Debugger",
+		"description": "breakpoint, step-over, step-into, watch variables"
+	},
+	{
+		"id": "",
 		"tags": ["pedagogy", "computing"],
 		"title": "Automated Tests",
 		"description": "Tests give students feedback on progress. Student constructing their own assertions and verifying these",
@@ -434,7 +441,7 @@
 	},
 	{
 		"tags": ["digital-literacy", "framework"],
-		"title": "Digital Competence Framework",
+		"title": "EU Digital Competence Framework",
 		"description": "Consider how your students skills map to external competency frameworks",
 		"url": {
 			"eu": "https://joint-research-centre.ec.europa.eu/digcomp/digcomp-framework_en"
@@ -457,22 +464,30 @@
 	},
 	{
 		"tags": ["digital-literacy", "framework"],
-		"title": "Education for a connected world",
-		"description": "",
+		"title": "gov.uk Education for a connected world",
+		"description": "eSafety, Cyber awareness, Digital Citizenship. Age appropriate benchmark statements",
 		"url": {
-			"gov.uk": "https://www.gov.uk/government/publications/education-for-a-connected-world"
+			"gov.uk": "https://www.gov.uk/government/publications/education-for-a-connected-world",
+			"projectevolve": "https://projectevolve.co.uk/"
 		}
 	},
 	{
 		"id": "",
 		"tags": ["digital-literacy"],
 		"title": "Hotkeys",
-		"description": "Windows accessibility, window arrangement, undo, select-all, copy/paste, triple click, move tabs"
+		"description": "Windows accessibility, window arrangement, undo, select-all, copy/paste, triple click, move tabs, screenshot"
+	},
+	{
+		"tags": ["digital-literacy"],
+		"title": "Touch Typing",
+		"description": "Typing Speed + fluent use of keyboard. Students can't trial ideas and be creative with a device if they spend 7 minuets typing in one line of text using a single finger and looking for each letter on the keyboard individually. (some school have 10min of this as a starter of every year 7 and 8 lesson).",
+		"url": {
+		}
 	},
 	{
 		"tags": ["digital-literacy", "computing"],
 		"title": "IDE",
-		"description": "autoformatter, auto-complete, run/debug cycle, hotkeys"
+		"description": "autoformatter, auto-complete, run/debug cycle, hotkeys, find-uses, ctrl+click goto definition"
 	},
 	{
 		"tags": ["digital-literacy"],
@@ -486,7 +501,7 @@
 	},
 	{
 		"tags": ["digital-literacy"],
-		"title": "File formats extensions/mime-types",
+		"title": "File format extensions/mime-types",
 		"description": "pdf? doc? jpg? csv?"
 	},
 	{
@@ -496,9 +511,14 @@
 	},
 
 	{
-		"tags": ["computing", "digital-literacy"],
+		"tags": ["computing"],
 		"title": "Version Control",
 		"description": "git?, diff(+,-,context), history, branch, merge"
+	},
+	{
+		"tags": ["digital-literacy"],
+		"title": "Document History",
+		"description": "See a documents version history. see previous versions of a document. who changed them? compare changes?"
 	},
 	{
 		"tags": ["digital-literacy", "physical"],
@@ -506,25 +526,32 @@
 		"description": "keylogger, magnetic strip reader, smartcard reader, mini thermal printer, ultraleap, barcode reader, rf reader"
 	},
 	{
-		"title": "markdown"
+		"title": "markdown",
+		"description": "headings, bullets, code blocks, tables, images, see mermaid and `Remark`"
 	},
 	{
-		"title": "mermaid"
+		"title": "mermaid",
+		"description": "diagram notation",
+		"url": {
+			"mermaid.js.org": "https://mermaid.js.org/intro/n00b-gettingStarted.html"
+		}
 	},
 	{
 		"title": "wiki/knowlege-base",
+		"tags": ["digital-literacy"],
 		"description": "non linear web of linked concepts. hashtags, backreferences, search plain text (maybe with commandline grep?)"
 	},
 	{
 		"title": "API",
 		"tags": ["digital-literacy", "computing"],
-		"description": "Use an api to get/post data. Use json.",
+		"description": "Use an api to get/post data. Understand json data structures.",
 		"url": {
 			"": "https://rapidapi.com/collection/list-of-free-apis"
 		}
 	},
 	{
 		"title": "Task Automation",
+		"tags": ["computing", "ict", "digital-literacy"],
 		"description": "Automate a task. macros? commandline-script? no-code? (IDEA course example send text when leave house). Think of more",
 		"url":{
 			"iDEA": "https://idea.org.uk/badge/automation"
@@ -541,17 +568,23 @@
 	{
 		"tags": ["ict", "digital-literacy"],
 		"title": "email",
-		"description": "Setup rules and forwarding, signatures, cc and bcc"
+		"description": "Setup rules and forwarding, signatures, cc and bcc, replying inline `>`"
 	},
 	{
-		"tags": ["ict", "digital-literacy"],
-		"title": "printers",
-		"description": "duplex, 2 to a page, headers/footers"
+		"tags": ["ict", "digital-literacy", "physical"],
+		"title": "Printer",
+		"description": "preview, duplex, 2 to a page, margins, headers/footers, printing tables"
 	},
+	{
+        "id": "",
+        "tags": ["physical", "ict"],
+        "title": "3D Printer + 3D Model",
+        "description": "Print a 3D model. Simple creation and modification of a 3D model"
+    },
 	{
 		"tags": ["computing"],
 		"title": "UnrealEngine: Blueprints",
-		"description": "",
+		"description": "A practical alternate paradigm for writing logic. 2d linked components",
 		"url": {
 			"UnrealEngine": "https://dev.epicgames.com/community/learning/courses/QGD/unreal-engine-blueprint-essential-concepts/P7L/unreal-engine-introduction-to-blueprint-essential-concepts"
 		}
@@ -559,31 +592,63 @@
 	{
 		"tags": ["pedagogy", "computing"],
 		"title": "Network Simulator",
-		"description": "Use a network simulator to make network practical",
+		"description": "Use a network simulator to make networking more practical than theoretical",
 		"url": {
 			"cs4g": "https://netsim.erinn.io/",
 			"code.org": "https://studio.code.org/s/netsim/",
-			"ncce": "https://teachcomputing.org/curriculum/key-stage-4/networks"
+			"ncce": "https://teachcomputing.org/curriculum/key-stage-4/networks",
+			"HelloWorld": "https://helloworld.raspberrypi.org/articles/HW8-make-networks-interesting-with-filius"
 		}
 	},
-
 	{
-		"title": "TODO: register a domain name and host a server somewhere",
-		"description": ""
+		"tags": ["computing", "digital-literacy"],
+		"title": "Domain name",
+		"description": "Understand the process of registering a domain name and hosting a service. DNS Record A, AAAA, MX. Mail forwarding?",
+		"url": {
+		}
 	},
 	{
-		"title": "TODO: verify a signature",
-		"description": "blockchain"
+		"tags": ["digital-literacy"],
+		"title": "Judging Quality of Information",
+		"description": "FakeNews, DeepFakes, Quality/Credibility of information",
+		"url": {
+			"iDEA": "https://idea.org.uk/badge/fake-news",
+			"iDEA2": "https://idea.org.uk/badge/fake-news-detector",
+			"nc": "key-stage-3"
+		}
 	},
 	{
-		"title": "TODO: hash?"
+		"tags": ["digital-literacy"],
+		"title": "Careers",
+		"description": "Breath of digital careers. Bioinformatics, Social media co-ordination, AI Prompt Engineer, Dev-Ops, Embedded systems, VR, IoT, Data Science, Data Visualisation, more!",
+		"url": {
+			"iDEA": "https://idea.org.uk/badge/digital-careers"
+		}
 	},
+    {
+        "id": "",
+        "tags": ["ict", "computing"],
+        "title": "Draw a graph/visualisation from a dataset",
+        "description": "",
+		"url": {
+			"iDEA": "https://idea.org.uk/badge/data-visualisation",
+			"nc": "key-stage-3"
+		}
+    },
 	{
-		"title": "TODO: rsa key pair - https certificate chain"
-	},
-	{
-		"title": "TODO: report community issues",
-		"description": "abandoned trolleys, planning permission around you and setup alerts?"
-	}
+        "id": "",
+        "tags": ["computing"],
+        "title": "Draw geometric shapes with recursion",
+        "description": "Recursive tree"
+    },
+    {
+        "id": "",
+        "tags": ["ict"],
+        "title": "Advanced Web Search: AND, OR, NOT, Date, Location",
+        "description": "",
+		"url": {
+			"nc": "key-stage-3"
+		}
+    }
 
 ]

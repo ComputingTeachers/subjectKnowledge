@@ -53,5 +53,20 @@
     "tags": ["code"],
     "title": "Modify an SVG image from text",
     "description": ""
+},
+{
+    "title": "TODO: verify a signature",
+    "description": "blockchain"
+},
+{
+    "title": "TODO: hash?"
+},
+{
+    "title": "TODO: rsa key pair - https certificate chain"
+},
+{
+    "title": "TODO: report community issues",
+    "description": "abandoned trolleys, planning permission around you and setup alerts?"
 }
+
 ]

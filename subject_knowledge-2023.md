@@ -3,9 +3,12 @@ Secondary Computing - Subject Knowledge
 
 * This is a tool to help you track and develop your subject knowledge
 * Perform a _gap analysis_ of your own skills
-* It is not expected that even professional teachers are at level 4 in all categories. The purpose is not to "complete" this audit. Trainees want a simple "tick list", this is not a "tick list"
-* This audit is NOT used for assessment. It is a tool to help teachers grow
-* This is 'Teacher' skill audit and not a 'Student/Pupil' skill audit
+* It is not expected that even professional teachers are at level 4 in all categories. The purpose is not to "complete" this audit. 
+    * Trainees want a simple "tick list", this is not a "tick list"
+* Computing is a wide discipline. A Computing teachers' role is wider than "just the syllabus"
+* This is 'Teacher' skill audit 
+    * and not a 'Student/Pupil' skill audit. Not a list of student tasks
+* This audit is NOT used for assessment. It is a tool to help teachers grow.
 
 
 Simplified Level Descriptors
@@ -32,8 +35,8 @@ Evidence
 For each review point, state:
 * Level you are currently working at (1 to 4)
 * Provide a reference to evidence, e.g
-    * `Week 8: 9IT2 Networks part2 10/12/2022`
-    * `NCCE Python Introdcution Unit 19/11/2022`
+    * `Week 8: 9IT2 Networks part2 10/12/2023`
+    * `NCCE Python Introduction Unit 19/11/2023`
     * (if possible a link)
     * An external examiner should be able to find these items in your ePortfolio
 
